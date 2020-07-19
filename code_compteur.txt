@@ -1,0 +1,25 @@
+<body text="#000000">
+<?
+$couleurtexte="#000000";
+
+    $fichier = "compteur.txt";
+
+    $fp = @fopen($fichier, "r");
+    if (!$fp) {
+        echo "Ouverture de $fichier en lecture impossible";
+        exit;
+    }
+    $visites = fgets($fp, 8);
+    echo "<font color=$couleurtexte>";
+    echo $visites++;
+    echo "</font>";
+    fclose($fp);
+
+    $fp = @fopen($fichier, "w"); 
+    if (!$fp) {
+        echo "Ouverture de $fichier en écriture impossible";
+        exit;
+    }
+    fputs($fp, $visites);
+    fclose($fp);
+?>
