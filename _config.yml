@@ -21,7 +21,7 @@
 title: Comite Savoie
 email: praginel@free.fr
 description: >- # this means to ignore newlines until "baseurl:"
-  Site du comité de Savoie, Natation et Water-polo
+  Site du comité de Savoie : Natation, Water-polo et Eau Libre
 baseurl: "/comitesavoienwp" # the subpath of your site, e.g. /blog
 url: "https://praginel.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb

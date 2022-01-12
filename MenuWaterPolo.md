@@ -9,19 +9,17 @@ Derni&egrave;re mise &agrave; jour le :
 Pour les clubs de water-polo de l'AuRA :
 liste des [correspondants](wp/correspondants), des [arbitres](wp/arbitres), des [entraineurs](wp/entraineurs), des [présidents](wp/presidents), ou [globale](wp/globale).
 
-Catégories | Calendrier | Résultats | Classements
+Catégories | Calendrier / Résultats | Classements
 --- | --- | --- | ---
-N1 : Aix les Bains, Givors,Pcl GUC, Moulins | Voir Site FFN | Voir Site FFN |
-Féminines 1D : Echirolles | Voir Site FFN | Voir Site FFN |
-AURA 3A | au 24/11/2021 ||
-AURA 3B | au 24/11/2021 | |
-AURA 3C | au 03/12/2021 | |
-N3 trié par date pour 2021 | au 03/12/2021 | |
-Désignation des arbitres | au 03/12/2021 |   |
-N3 trié par date pour 2022 | au 15/10/2021 | |
+N1 : Aix les Bains, Givors,Pcl GUC, Moulins | Voir Site FFN | Voir Site FFN
+Féminines 1D : Echirolles | Voir Site FFN | Voir Site FFN
+AURA 3A | [N3A](wp/N3A) ||
+AURA 3B | [N3B](wp/N3B) ||
+AURA 3C | [N3C](wp/N3C) ||
+N3 | [calendrier](wp/N3) ||
 AURA Féminines |   |   |
-U17 Brassage | au 10/12/2021 | au 10/12/2021 |
-U15 Brassage | au 10/12/2021 | au 10/12/2021 |
-U13 Brassage | au 10/12/2021 | au 10/12/2021 |
-Championnat France U15G Poule A | au 08/10/2021 | Voir Site FFN |
-AuRA Jeunes | au 05/11/21 | Voir Site FFN |
+U17 Brassage | [U17](wp/17ans) ||
+U15 Brassage | [U15](wp/15ans) ||
+U13 Brassage | [U13](wp/13ans) ||
+Championnat France U15G Poule A | Voir Site FFN ||
+AuRA Jeunes | Voir Site FFN ||
