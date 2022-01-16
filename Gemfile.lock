@@ -287,7 +287,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll (~> 3.9)
   jekyll-feed (~> 0.12)
   jekyll-last-modified-at
   minima (~> 2.5)
