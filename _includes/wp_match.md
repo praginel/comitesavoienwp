@@ -11,7 +11,7 @@
 Derni&egrave;re mise &agrave; jour le :
     {{ page.last_modified_at | date: '%Y-%m-%d %H:%M' }}
 {% else %}
-    {% include wp_maj.md %}
+    {% include maj.md %}
 {% endif %}
 
 Date | Heure | Journée | Match | Club Receveur | Score | Club Visiteur | Poule | Arbitres
