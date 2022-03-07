@@ -17,7 +17,7 @@ Derni&egrave;re mise &agrave; jour le :
 Date | Catégorie | Intitulé de la Compétition | Lieu | Programme | Programme Détailé | Résultats
 ---|---|---|---|---|---|---
 {% for competition in competitions -%}
-{% if competition.categorie == null -%}
+{% if competition.date_debut == null -%}
 |||<span style="background-color:cyan">**{{competition.intitule}}**</span>|||
 {% else -%}
 {% if competition.date_fin != null && competition.date_fin != competition.date_debut -%}
@@ -25,13 +25,16 @@ Date | Catégorie | Intitulé de la Compétition | Lieu | Programme | Programme 
 {% else -%}
 {%   assign date = competition.date_debut -%}
 {% endif -%}
-{%   if competition.categorie == 'Jeunes' -%}
-{%     assign categorie = '<span style="color:green">' | append: competition.categorie | append: '</span>' -%}
-{%   elsif competition.categorie == 'Avenirs' -%}
-{%     assign categorie = '<span style="color:purple">' | append: competition.categorie | append: '</span>' -%}
-{%   else -%}
-{%     assign categorie = competition.categorie -%}
-{%   endif -%}
+{% case competition.categorie -%}
+{% when null -%}
+{%   assign categorie = '' -%}
+{% when 'Jeunes', 'Jeunes et +', 'Jeunes 3 et +' -%}
+{%   assign categorie = '<span style="color:green">' | append: competition.categorie | append: '</span>' -%}
+{% when 'Avenirs' -%}
+{%   assign categorie = '<span style="color:purple">' | append: competition.categorie | append: '</span>' -%}
+{% else -%}
+{%   assign categorie = competition.categorie -%}
+{% endcase -%}
 {% if competition.programme != null -%}
 {%   assign programme = competition.programme -%}
 {% else -%}
