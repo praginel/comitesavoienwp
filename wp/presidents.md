@@ -1,6 +1,7 @@
 ---
 title: Présidents
 position: president
+category: waterpolo
 ---
 
 # Liste des présidents des clubs

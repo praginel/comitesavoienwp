@@ -1,6 +1,7 @@
 ---
 title: Jeunes
 categorie: Jeunes
+category: natation
 ---
 
 # Calendrier des avenirs

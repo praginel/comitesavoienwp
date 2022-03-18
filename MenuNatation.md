@@ -1,5 +1,5 @@
 ---
-title: Natation
+category: natation
 ---
 
 # Liste des competitions de natation

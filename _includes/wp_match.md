@@ -1,4 +1,5 @@
 ---
+category: waterpolo
 ---
 {% if page contains "poule_exp" %}
 {%   assign filter = "item.poule contains '" | append: page.poule_exp | append: "'" %}

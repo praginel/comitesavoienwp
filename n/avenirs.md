@@ -1,6 +1,7 @@
 ---
 title: Avenirs
 categorie: Avenirs
+category: natation
 ---
 
 # Calendrier des avenirs

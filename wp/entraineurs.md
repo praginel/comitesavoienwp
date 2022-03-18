@@ -1,6 +1,7 @@
 ---
 title: Entraineurs
 position: entraineur
+category: waterpolo
 ---
 
 # Liste des entraineurs des clubs

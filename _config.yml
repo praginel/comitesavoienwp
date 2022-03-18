@@ -15,9 +15,9 @@ plugins:
 last-modified-at:
     date-format: '%Y-%m-%d %H:%M'
 exclude:
-  - VieuxSite/
-  - pdfs/
-  - images/
+  # - VieuxSite/
+  # - pdfs/
+  # - images/
   - .gitignore
   - .sass-cache/
   - .jekyll-cache/
