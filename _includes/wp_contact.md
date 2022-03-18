@@ -9,14 +9,6 @@ category: waterpolo
 {%   assign membres = site.data.membres | sort: "club" %}
 {% endif %}
 
-{% if page contains "last_modified_at" -%}
-Derni&egrave;re mise &agrave; jour le :
-    {{ page.last_modified_at | date: '%Y-%m-%d %H:%M' }}
-{% else %}
-    {% include maj.md %}
-{% endif %}
-
-
 Club | {% unless page contains "position" %}Position |{% endunless %} Nom | Portable | Email
 ---|{% unless page contains "position" %}---|{% endunless %}---|---|---
 {% for membre in membres -%}

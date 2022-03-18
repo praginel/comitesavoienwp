@@ -8,13 +8,6 @@
 {%   assign competitions = site.data.natation-2022 %}
 {% endif %}
 
-{% if page contains "last_modified_at" -%}
-Dernière mise à jour le :
-    {{ page.last_modified_at | date: '%Y-%m-%d %H:%M' }}
-{% else %}
-    {% include maj.md %}
-{% endif %}
-
 | Date | Catégorie | Intitulé de la Compétition | Lieu | Programme | Programme Détailé | Résultats |
 | --- | --- | --- | --- | --- | --- | --- |
 {% for competition in competitions -%}
