@@ -1,4 +1,5 @@
 ---
+title: Compétitions
 category: natation
 ---
 

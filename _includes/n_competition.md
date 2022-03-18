@@ -8,11 +8,6 @@
 {%   assign competitions = site.data.natation-2022 %}
 {% endif %}
 
-| Header 1  | Header 2            | Header 3  |
-| --------- | ------------------- | --------- |
-| Some data | Cell 2              | Cell 3    | Ignored | Ignored |
-| data      | Some long data here | more data | 
-
 {% if page contains "last_modified_at" -%}
 Dernière mise à jour le :
     {{ page.last_modified_at | date: '%Y-%m-%d %H:%M' }}
@@ -35,9 +30,9 @@ Dernière mise à jour le :
 {% when null -%}
 {%   assign categorie = '' -%}
 {% when 'Jeunes', 'Jeunes et +', 'Jeunes 3 et +' -%}
-{%   assign categorie = '<span style="color:green">' | append: competition.categorie | append: '</span>' -%}
+{%   assign categorie = '<span style="background-color:green; color:white">' | append: competition.categorie | append: '</span>' -%}
 {% when 'Avenirs' -%}
-{%   assign categorie = '<span style="color:purple">' | append: competition.categorie | append: '</span>' -%}
+{%   assign categorie = '<span style="background-color:purple; color:white">' | append: competition.categorie | append: '</span>' -%}
 {% else -%}
 {%   assign categorie = competition.categorie -%}
 {% endcase -%}
