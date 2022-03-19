@@ -7,13 +7,6 @@
 {%   assign matches = site.data.n3-2022 | where: "poule", page.poule %}
 {% endif %}
 
-{% if page contains "last_modified_at" -%}
-Derni&egrave;re mise &agrave; jour le :
-    {{ page.last_modified_at | date: '%Y-%m-%d %H:%M' }}
-{% else %}
-    {% include wp_maj.md %}
-{% endif %}
-
 Date | Heure | Journée | Match | Club Receveur | Score | Club Visiteur | Poule | Arbitres
 ---|---|---|---|---|---|---|---|---
 {% for match in matches -%}
