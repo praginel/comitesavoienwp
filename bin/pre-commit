@@ -1,0 +1,13 @@
+#!/bin/sh
+
+set -euo pipefail
+
+maj_file=_includes/maj.html
+date=$(LC_ALL=fr_FR date '+%A %d %B %Y')
+if grep -q "$date" "$maj_file"; then
+	echo "Date de modification correcte: $date"
+	exit 0
+fi
+echo "Modification de la date dans $maj_file: $date"
+echo $date > $maj_file
+exit 1
