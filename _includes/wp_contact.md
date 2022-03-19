@@ -1,5 +1,4 @@
 ---
-category: waterpolo
 ---
 
 {% if page contains "position" %}
