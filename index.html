@@ -62,9 +62,14 @@ function MM_nbGroup(event, grpName) { //v6.0
 <div align="center"> 
   <p><img src="images/logo_DPT73_QUADRI(texte noir).png" width="230" height="158"></p>
   <p>Vous pouvez aussi consulter ce site : <a href="http://ffnatation.savoie.info/">http://ffnatation.savoie.info/</a></p>
-  <p><font color="#000000" size="1" face="Trebuchet MS, Arial, Helvetica">Derni&egrave;re mise &agrave; jour le :
-    {{ page.last_modified_at | date: '%Y-%m-%d %H:%M' }}
+  <p><font color="#000000" size="1" face="Trebuchet MS, Arial, Helvetica">Derni&egrave;re mise &agrave; jour le
+    {% if page contains "last_modified_at" -%}
+      {{ page.last_modified_at | date: '%Y-%m-%d %H:%M' }}
+    {% else %}
+      {% include maj.html %}
+    {% endif %}
   </font> </p>
+
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td><a href="MenuNatation.html" target="_top" onClick="MM_nbGroup('down','group1','Natation','images/Natation2.jpg',1)" onMouseOver="MM_nbGroup('over','Natation','images/Logo C.G. avec Dep.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="images/Natation2.jpg" alt="" name="Natation" width="367" height="271" border="0" onload=""></a></td>
