@@ -1,6 +1,3 @@
----
----
-
 {% if page contains "position" %}
 {%   assign filter = "item.position contains '" | append: page.position | append: "'" %}
 {%   assign membres = site.data.membres | where_exp: "item", filter %}
@@ -8,9 +5,13 @@
 {%   assign membres = site.data.membres | sort: "club" %}
 {% endif %}
 
-Club | {% unless page contains "position" %}Position |{% endunless %} Nom | Portable | Email
----|{% unless page contains "position" %}---|{% endunless %}---|---|---
+<div class="datatable-begin"></div>
+
+Club | {% unless page contains "position" -%}Position |{% endunless -%} Nom | Portable | Email
+---|{% unless page contains "position" -%}---|{% endunless -%}---|---|---
 {% for membre in membres -%}
-{% capture email %}<a href="mailto:{{membre.email}}">{{membre.email}}</a>{% endcapture -%}
-{{membre.club}} | {% unless page contains "position" %}{{membre.position}} |{% endunless %}{{membre.nom}} | {{membre.portable}} | {{membre.email}} |
-{% endfor -%}
+{% capture email -%}<a href="mailto:{{membre.email}}">{{membre.email}}</a>{% endcapture -%}
+{{membre.club}} | {% unless page contains "position" -%}{{membre.position}} |{% endunless -%} {{membre.nom}} | {{membre.portable}} | {{email}}
+{% endfor %}
+
+<div class="datatable-end"></div>

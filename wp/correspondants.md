@@ -2,6 +2,7 @@
 title: Correspondants
 position: correspondant
 category: waterpolo
+datatable: true
 ---
 
 # Liste des correspondants des clubs

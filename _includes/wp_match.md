@@ -1,11 +1,4 @@
----
----
-{% if page contains "poule_exp" %}
-{%   assign filter = "item.poule contains '" | append: page.poule_exp | append: "'" %}
-{%   assign matches = site.data.n3-2022 | where_exp: "item", filter %}
-{% else %}
-{%   assign matches = site.data.n3-2022 | where: "poule", page.poule %}
-{% endif %}
+{% include wp_data.md %}
 
 Date | Heure | Journée | Match | Club Receveur | Score | Club Visiteur | Poule | Arbitres
 ---|---|---|---|---|---|---|---|---

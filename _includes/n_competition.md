@@ -1,6 +1,3 @@
----
----
-
 {% if page contains "categorie" %}
 {%   assign filter = "item.categorie contains '" | append: page.categorie | append: "'" %}
 {%   assign competitions = site.data.natation-2022 | where_exp: "item", filter %}
