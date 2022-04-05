@@ -13,12 +13,12 @@ Date | Heure | Journée | Match | Club Receveur | Score | Club Visiteur | Poule 
 {% else -%}
 {%   assign heure = match.heure -%}
 {% endif -%}
-{% if match.arbitre2 != null -%}
+{% if match.arbitre2 -%}
 {%   assign arbitre = match.arbitre1 | append: ', ' | append: match.arbitre2 -%}
 {% else -%}
 {%   assign arbitre = match.arbitre1 -%}
 {% endif -%}
-{% if match.score_locaux != null -%}
+{% if match.score_locaux -%}
 {%   assign score = match.score_locaux | append: '&nbsp;-&nbsp;' | append: match.score_visiteurs -%}
 {% else -%}
 {%   assign score = ' ' -%}
