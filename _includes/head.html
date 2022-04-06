@@ -24,12 +24,21 @@
             info: false,
             order: [[0, 'asc'], [1, 'asc'], [2, 'asc']]
         });
+        var poule = '';
+        var rank = 0;
         $('div.datatable-begin-rankings').nextUntil('div.datatable-end-rankings', 'table').addClass('display').DataTable( {
             paging: false,
             stateSave: false,
             searching: false,
             info: false,
-            order: [[0, 'asc'], [2, 'desc'], [9, 'desc']]
+            order: [[0, 'asc'], [3, 'desc'], [10, 'desc']]
+        }).columns(1).nodes().flatten().to$().each(function(index) {
+          var cur_poule = $(this).prev().html();
+          if(cur_poule != poule) {
+            rank = index;
+            poule = cur_poule;
+          }
+          $(this).html(index+1-rank);
         });
      });
   </script>
