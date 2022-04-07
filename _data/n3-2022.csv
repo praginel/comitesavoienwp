@@ -84,7 +84,7 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 02/04/2022,y,20H00,,10,A30,PDCGUC,ONDAINE,N3A,Favry,,,
 02/04/2022,Y,19H30,y,6,B16,VILLEFRANCHE,LA  BIEVRE,N3B,Forjan,,,
 09/04/2022,,18H40,,10,C28,CHAMALIERES,BOURG,N3C,Mazurier,,,
-09/04/2022,,20H00,,10,C30,MOULINS,LYON-RHONE,N3C,Jadeau,,,
+09/04/2022,,21H00,,10,C30,MOULINS,LYON-RHONE,N3C,Jadeau,,,
 09/04/2022,,20H00,,10,B30,RILLIEUX 2,LA  BIEVRE,N3B,Favry,,,
 09/04/2022,,20H00,,10,B29,SEYNOD,ANNONAY ,N3B,Filoni,,,
 09/04/2022,,19H30,,10,B28,VILLEFRANCHE,ANNEMASSE,N3B,Ponsot,Forjan,,
@@ -113,7 +113,7 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 30/01/2022,,15h50,,5H,34,Villefranche,Moulins,U13,Ponsot,,23,6
 30/01/2022,,17h15,,5H,35,Pdcguc,Villefranche,U13,Ponsot,,4,24
 30/01/2022,,14h00,,5B,41,Annonay B,Rillieux,U13,,,2,15
-30/01/2022,,15h30,,5B,42,Rillieux,Givors,U13,,,,
+30/01/2022,,15h30,,5B,42,Rillieux,Givors,U13,,,5,17
 30/01/2022,,17h00,,5B,43,Annonay B,Givors,U13,,,1,13
 06/03/2022,,13h45,,6H,44,Aix,Pdcguc,U13,Forjan,,20,16
 06/03/2022,,15h15,,6H,45,Villefranche,Pdcguc,U13,Forjan,,25,5
@@ -179,3 +179,6 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 20/03/2022,,1515,,7,1542,GIVORS,PDCGUC,U15,,,11,2
 20/03/2022,,16h30,,7,1543,RILLIEUX,GIVORS,U15,,,6,17
 20/03/2022,,17h45,,7,1544,ANNONAY B,PDCGUC,U15,,,0,12
+03/04/2022,,14h15,,7H,50,Pdcguc,Villefranche,U13,Favry,,7,23
+03/04/2022,,15h30,,7H,51,Villefranche,Rillieux,U13,,,27,13
+03/04/2022,,17h00,,7H,52,Pdcguc,Rillieux,U13,,,25,2
