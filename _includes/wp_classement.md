@@ -3,6 +3,7 @@
 {% assign teams = "" | split: "," %}
 {% for match in matches -%}
 {%   assign teams = teams | push: match.locaux %}
+{%   assign teams = teams | push: match.visiteurs %}
 {% endfor %}
 {% assign teams = teams | uniq %}
 
