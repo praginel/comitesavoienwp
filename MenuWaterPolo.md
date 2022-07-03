@@ -2,10 +2,7 @@
 category: waterpolo
 ---
 
-Saison 2021/2022
-
-Derni&egrave;re mise &agrave; jour le :
-    {{ page.last_modified_at | date: '%Y-%m-%d %H:%M' }}
+# Saison 2021/2022
 
 Pour les clubs de water-polo de l'AuRA :
 liste des [correspondants](wp/correspondants), des [arbitres](wp/arbitres), des [entraineurs](wp/entraineurs), des [présidents](wp/presidents), ou [globale](wp/globale).
