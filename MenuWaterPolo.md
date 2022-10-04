@@ -2,7 +2,7 @@
 category: waterpolo
 ---
 
-# Saison 2021/2022
+# Saison 2022/2023
 
 Pour les clubs de water-polo de l'AuRA :
 liste des [correspondants](wp/correspondants), des [arbitres](wp/arbitres), des [entraineurs](wp/entraineurs), des [présidents](wp/presidents), ou [globale](wp/globale).
@@ -13,7 +13,6 @@ N1 : Aix les Bains, Givors,Pcl GUC, Moulins | Voir Site FFN | Voir Site FFN
 Féminines 1D : Echirolles | Voir Site FFN | Voir Site FFN
 AURA 3A | [N3A](wp/N3A) ||
 AURA 3B | [N3B](wp/N3B) ||
-AURA 3C | [N3C](wp/N3C) ||
 N3 | [calendrier](wp/N3) ||
 AURA Féminines |   |   |
 U17 Brassage | [U17](wp/17ans) ||

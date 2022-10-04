@@ -1,7 +1,7 @@
 ---
 title: N3C
 poule: N3C
-category: waterpolo
+category: waterpoloH
 datatable: true
 ---
 
