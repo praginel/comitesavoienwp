@@ -1,4 +1,4 @@
-{% include wp_data.md %}
+{% include wp_data.md -%}
 {% assign played = 0 -%}
 {% assign points = 0 -%}
 {% assign victories = 0 -%}
