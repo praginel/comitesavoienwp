@@ -1,4 +1,4 @@
-date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,arbitre1,arbitre2,score_locaux,score_visiteurs
+date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,arbitre1,arbitre2,score_locaux,score_visiteurs
 08/10/2022,,20h00,,1,A01,Ondaine,Chenove,N3A,,,8,0
 08/10/2022,,20h00,,1,A02,Pont de Claix,Moulins,N3A,,,,
 08/10/2022,,20h00,,1,A04,Villefontaine,Annonay,N3A,,,,
@@ -16,7 +16,7 @@ date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,arbitre
 22/10/2022,,20h00,,2,B07,Annemasse,Valence,N3B,,,,
 22/10/2022,,20h00,,2,B09,Bourg,Rillieux (équipe 2),N3B,,,,
 22/10/2022,,19h30,,2,B10,Echirolles,Lyon Rhone (équipe 2),N3B,,,,
-29/10/2022,,20h00,,2,B08,La Bièvre,Seynod,N3B,,,,
+29/10/2022,y,20h00,,2,B08,Seynod,La Bièvre,N3B,,,,
 05/11/2022,,18h30,y,3,A14,Aix,Rillieux,N3A,,,,
 05/11/2022,,21h00,y,3,A11,Moulins,Chenove,N3A,,,,
 05/11/2022,,20h00,,3,A12,Ondaine,Lyon Rhone,N3A,,,,
@@ -109,7 +109,7 @@ date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,arbitre
 25/02/2023,,20h00,,12,A60,Villefranche,Villefontaine,N3A,,,,
 25/02/2023,,20h00,,11,B51,Villefranche (équipe 2),Exempt,N3B,,,,
 25/02/2023,,20h00,,11,B52,Valence,Annemasse,N3B,,,,
-25/02/2023,,20h00,,11,B53,La Bièvre,Seynod,N3B,,,,
+25/02/2023,y,20h00,,11,B53,La Bièvre,Seynod,N3B,,,,
 25/02/2023,,19h15,y,11,B54,Rillieux (équipe 2),Bourg,N3B,,,,
 25/02/2023,,18h50,y,11,B55,Lyon Rhone (équipe 2),Echirolles,N3B,,,,
 02/03/2023,y,21h00,y,13,A63,Pont de Claix,Aix,N3A,,,,
