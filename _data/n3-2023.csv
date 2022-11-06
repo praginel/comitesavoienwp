@@ -1,4 +1,5 @@
 date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,arbitre1,arbitre2,score_locaux,score_visiteurs
+01/10/2022,y,13h30,,10,A47,Moulins,Pont de Claix,N3A,,,,
 08/10/2022,,20h00,,1,A05,Villefranche,Aix,N3A,Filoni,,12,16
 08/10/2022,,20h00,,1,A04,Villefontaine,Annonay,N3A,Remis,,,
 08/10/2022,,20h00,,1,A01,Ondaine,Chenove,N3A,,,8,0
@@ -13,16 +14,15 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 15/10/2022,,20h00,,1,B50,Annemasse,Villefranche (équipe 2),N3B,,,8,0
 22/10/2022,,19h30,,2,B10,Echirolles,Lyon Rhone (équipe 2),N3B,Favry,,20,1
 22/10/2022,,20h00,,2,B09,Bourg,Rillieux (équipe 2),N3B,Mazurier,,16,13
-29/10/2022,y,20h00,,2,B08,Seynod,La Bièvre,N3B,,,,
+29/10/2022,y,20h00,,2,B08,Seynod,La Bièvre,N3B,Favry,,15,3
 05/11/2022,,20h00,,3,B14,Seynod,Annemasse,N3B,Ponsot,,,
 05/11/2022,,18h15,y,3,B12,Lyon Rhone (équipe 2),Bourg,N3B,Raymond,,,
 05/11/2022,,21h00,y,3,A11,Moulins,Chenove,N3A,Vargas,Brugière,,
 05/11/2022,,20h00,,3,B13,Rillieux (équipe 2),La Bièvre,N3B,Daché,,,
-05/11/2022,,20h00,,3,A12,Ondaine,Lyon Rhone,N3A,Mazurier,,,
+05/11/2022,,20h00,,3,A12,Ondaine,Lyon Rhone,N3A,Mazurier,,14,17
 05/11/2022,,20h00,,3,A15,Villefontaine,Villefranche,N3A,Forjan,,,
 05/11/2022,,20h00,,3,B15,Valence,Villefranche (équipe 2),N3B,Favry,,,
 12/11/2022,y,19h30,y,13,B65,Echirolles,Bourg,N3B,,,,
-12/11/2022,,20h00,,4,B19,La Bièvre,Lyon Rhone (équipe 2),N3B,,,,
 12/11/2022,,20h00,,4,B18,Annemasse,Rillieux (équipe 2),N3B,,,,
 12/11/2022,,18h45,y,5,A24,Pont de Claix,Villefranche,N3A,,,,
 12/11/2022,,20h00,,13,B62,Seynod,Villefranche (équipe 2),N3B,,,,
@@ -41,6 +41,7 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 26/11/2022,,18h30,y,5,A23,Aix,Ondaine,N3A,,,,
 26/11/2022,,19h15,y,6,B27,Rillieux (équipe 2),Valence,N3B,,,,
 26/11/2022,,20h00,,5,A25,Rillieux,Villefontaine,N3A,,,,
+03/12/2022,y,20h00,,4,B19,La Bièvre,Lyon Rhone (équipe 2),N3B,,,,
 03/12/2022,,20h00,,6,A30,Annonay,Lyon Rhone,N3A,,,,
 03/12/2022,,18h30,y,6,A29,Aix,Moulins,N3A,,,,
 03/12/2022,,20h00,,6,A28,Villefranche,Ondaine,N3A,,,,
@@ -77,7 +78,6 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 21/01/2023,,20h00,,9,B42,La Bièvre,Villefranche (équipe 2),N3B,,,,
 26/01/2023,y,19h50,,9,B44,Echirolles,Seynod,N3B,,,,
 28/01/2023,,20h00,,10,A46,Chenove,Ondaine,N3A,,,,
-28/01/2023,,20h00,,10,A47,Moulins,Pont de Claix,N3A,,,,
 28/01/2023,,17h30,y,10,A48,Lyon Rhone,Rillieux,N3A,,,,
 28/01/2023,y,18h50,y,9,B45,Lyon Rhone (équipe 2),Rillieux (équipe 2),N3B,,,,
 28/01/2023,,20h00,,10,A49,Annonay,Villefontaine,N3A,,,,
