@@ -1,5 +1,5 @@
-,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,arbitre1,arbitre2,score_locaux,score_visiteurs
-01/10/2022,y,13h30,,10,A47,Moulins,Pont de Claix,N3A,,,,
+date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,arbitre1,arbitre2,score_locaux,score_visiteurs
+01/10/2022,y,13h30,,10,A47,Moulins,Pont de Claix,N3A,Remis,,,
 08/10/2022,,20h00,,1,A05,Villefranche,Aix,N3A,Filoni,,12,16
 08/10/2022,,20h00,,1,A04,Villefontaine,Annonay,N3A,Remis,,,
 08/10/2022,,20h00,,1,A01,Ondaine,Chenove,N3A,,,8,0
