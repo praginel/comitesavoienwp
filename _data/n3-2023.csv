@@ -1,5 +1,4 @@
-,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,arbitre1,arbitre2,score_locaux,score_visiteurs
-01/10/2022,y,13h30,,10,A47,Moulins,Pont de Claix,N3A,Remis,,,
+date,date_modifiee,01/11/2022,,journee,numero,locaux,visiteurs,poule,arbitre1,arbitre2,score_locaux,score_visiteurs
 08/10/2022,,20h00,,1,A05,Villefranche,Aix,N3A,Filoni,,12,16
 08/10/2022,,20h00,,1,A04,Villefontaine,Annonay,N3A,Remis,,,
 08/10/2022,,20h00,,1,A01,Ondaine,Chenove,N3A,,,8,0
@@ -7,14 +6,15 @@
 15/10/2022,,20h00,,2,A07,Villefontaine,Aix,N3A,Remis,,,
 15/10/2022,,20h00,,1,B03,Seynod,Bourg,N3B,Daché,,15,12
 15/10/2022,,20h00,,1,B04,Valence,La Bièvre,N3B,Mazurier,,21,8
-15/10/2022,,21h00,y,2,A10,Moulins,Ondaine,N3A,Bourgès,,12,4
-15/10/2022,,18h15,y,2,A09,Lyon Rhone,Pont de Claix,N3A,Favry,,15,8
+15/10/2022,,21h00,,2,A10,Moulins,Ondaine,N3A,Bourgès,,12,4
+15/10/2022,,18h15,,2,A09,Lyon Rhone,Pont de Claix,N3A,Favry,,15,8
 15/10/2022,,20h00,,2,A08,Annonay,Rillieux,N3A,Salle,,17,20
 15/10/2022,,20h00,,2,A06,Chenove,Villefranche,N3A,Merlet,,7,5
 15/10/2022,,20h00,,1,B50,Annemasse,Villefranche (équipe 2),N3B,,,8,0
 22/10/2022,,19h30,,2,B10,Echirolles,Lyon Rhone (équipe 2),N3B,Favry,,20,1
 22/10/2022,,20h00,,2,B09,Bourg,Rillieux (équipe 2),N3B,Mazurier,,16,13
 29/10/2022,y,20h00,,2,B08,Seynod,La Bièvre,N3B,Favry,,15,3
+01/11/2022,y,13h30,,10,A47,Moulins,Pont de Claix,N3A,Remis,,,
 05/11/2022,,20h00,,3,B14,Seynod,Annemasse,N3B,Ponsot,,8,11
 05/11/2022,,18h15,y,3,B12,Lyon Rhone (équipe 2),Bourg,N3B,Raymond,,5,14
 05/11/2022,,21h00,y,3,A11,Moulins,Chenove,N3A,Vargas,Brugière,,
@@ -33,7 +33,7 @@
 19/11/2022,,20h15,y,4,A17,Rillieux,Villefranche,N3A,,,,
 19/11/2022,,19h15,y,5,B24,Rillieux (équipe 2),Villefranche (équipe 2),N3B,,,,
 20/11/2022,,15h00,y,5,B23,Lyon Rhone (équipe 2),Annemasse,N3B,,,,
-20/11/2022,y,20h00,y,4,A20,Lyon Rhone,Moulins,N3A,,,,
+20/11/2022,y,20h00,,4,A20,Lyon Rhone,Moulins,N3A,,,,
 26/11/2022,,19h30,y,5,A22,Moulins,Annonay,N3A,,,,
 26/11/2022,,20h00,,6,B30,La Bièvre,Bourg,N3B,,,,
 26/11/2022,,18h15,y,5,A21,Lyon Rhone,Chenove,N3A,,,,
@@ -53,10 +53,10 @@
 10/12/2022,,20h00,,7,A35,Pont de Claix,Rillieux,N3A,,,,
 10/12/2022,,19h50,y,7,B34,Lyon Rhone (équipe 2),Valence,N3B,,,,
 10/12/2022,,20h00,,7,A34,Ondaine,Villefontaine,N3A,,,,
-10/12/2022,,19h30,,7,B33,Echirolles,Villefranche (équipe 2),N3B,,,,
+10/12/2022,,19h30,y,7,B33,Echirolles,Villefranche (équipe 2),N3B,,,,
 17/12/2022,y,20h00,,2,B07,Annemasse,Valence,N3B,,,,
 17/12/2022,y,18h45,y,3,A13,Pont de Claix,Annonay,N3A,,,,
-17/12/2022,,20h00,y,7,A33,Moulins,Villefranche,N3A,,,,
+17/12/2022,,20h00,,7,A33,Moulins,Villefranche,N3A,,,,
 07/01/2023,,20h00,,17,A85,Annonay,Aix,N3A,,,,
 07/01/2023,,20h00,,8,A39,Villefranche,Lyon Rhone,N3A,,,,
 07/01/2023,y,20h00,,6,B28,Villefranche (équipe 2),Lyon Rhone (équipe 2),N3B,,,,
@@ -71,12 +71,12 @@
 14/01/2023,,21h00,,9,A44,Moulins,Rillieux,N3A,,,,
 21/01/2023,,20h00,,18,A86,Chenove,Aix,N3A,,,,
 21/01/2023,,18h45,y,18,A90,Pont de Claix,Ondaine,N3A,,,,
-21/01/2023,y,19h30,,10,B47,Echirolles,Rillieux (équipe 2),N3B,,,,
+21/01/2023,y,19h30,y,10,B47,Echirolles,Rillieux (équipe 2),N3B,,,,
 21/01/2023,,20h00,,9,B43,Bourg,Valence,N3B,,,,
 21/01/2023,,18h15,y,9,A43,Lyon Rhone,Villefontaine,N3A,,,,
 21/01/2023,,20h00,,9,A42,Annonay,Villefranche,N3A,,,,
 21/01/2023,,20h00,,9,B42,La Bièvre,Villefranche (équipe 2),N3B,,,,
-26/01/2023,y,19h50,,9,B44,Echirolles,Seynod,N3B,,,,
+26/01/2023,y,19h50,y,9,B44,Echirolles,Seynod,N3B,,,,
 28/01/2023,,20h00,,10,A46,Chenove,Ondaine,N3A,,,,
 28/01/2023,,17h30,y,10,A48,Lyon Rhone,Rillieux,N3A,,,,
 28/01/2023,y,18h50,y,9,B45,Lyon Rhone (équipe 2),Rillieux (équipe 2),N3B,,,,
@@ -87,7 +87,7 @@
 04/02/2023,,20h00,,11,A53,Rillieux,Annonay,N3A,,,,
 04/02/2023,,20h00,,11,A51,Villefranche,Chenove,N3A,,,,
 04/02/2023,,20h00,,11,A55,Ondaine,Moulins,N3A,,,,
-04/02/2023,,19h15,,7,B35,Rillieux (équipe 2),Seynod,N3B,,,,
+04/02/2023,,19h15,y,7,B35,Rillieux (équipe 2),Seynod,N3B,,,,
 04/02/2023,,18h30,y,11,A52,Aix,Villefontaine,N3A,,,,
 18/02/2023,y,18h30,y,3,A14,Aix,Rillieux,N3A,,,,
 18/02/2023,,20h00,,10,B48,Bourg,Seynod,N3B,,,,
@@ -106,7 +106,7 @@
 04/03/2023,,20h00,,13,A61,Villefontaine,Chenove,N3A,,,,
 04/03/2023,,20h00,,13,A65,Moulins,Lyon Rhone,N3A,,,,
 04/03/2023,,19h30,y,13,A62,Villefranche,Rillieux,N3A,,,,
-04/03/2023,,21h00,,14,B69,Villefranche (équipe 2),Rillieux (équipe 2),N3B,,,,
+04/03/2023,,21h00,y,14,B69,Villefranche (équipe 2),Rillieux (équipe 2),N3B,,,,
 11/03/2023,,20h00,,12,B57,Bourg,Lyon Rhone (équipe 2),N3B,,,,
 11/03/2023,y,19h30,y,4,A18,Aix,Pont de Claix,N3A,,,,
 11/03/2023,,20h00,,12,B58,La Bièvre,Rillieux (équipe 2),N3B,,,,
@@ -118,13 +118,13 @@
 18/03/2023,,20h00,,14,A70,Villefontaine,Rillieux,N3A,,,,
 18/03/2023,,20h00,,4,B17,Villefranche (équipe 2),Seynod,N3B,,,,
 25/03/2023,,19h15,y,13,B63,Rillieux (équipe 2),Annemasse,N3B,,,,
-25/03/2023,y,20h00,y,4,B20,Bourg,Echirolles,N3B,,,,
+25/03/2023,y,20h00,,4,B20,Bourg,Echirolles,N3B,,,,
 25/03/2023,,18h15,y,13,B64,Lyon Rhone (équipe 2),La Bièvre,N3B,,,,
 25/03/2023,y,20h00,,1,A03,Rillieux,Lyon Rhone,N3A,,,,
 25/03/2023,y,20h00,,12,A58,Annonay,Pont de Claix,N3A,,,,
-30/03/2023,y,20h00,y,15,A72,Pont de Claix,Villefontaine,N3A,,,,
+30/03/2023,y,20h00,,15,A72,Pont de Claix,Villefontaine,N3A,,,,
 01/04/2023,,20h00,,15,A74,Moulins,Aix,N3A,,,,
-01/04/2023,,18h15,,15,A75,Lyon Rhone,Annonay,N3A,,,,
+01/04/2023,,18h15,y,15,A75,Lyon Rhone,Annonay,N3A,,,,
 01/04/2023,,20h00,,15,A71,Rillieux,Chenove,N3A,,,,
 01/04/2023,,20h00,,14,B67,La Bièvre,Echirolles,N3B,,,,
 01/04/2023,,20h00,,14,B68,Annemasse,Lyon Rhone (équipe 2),N3B,,,,
@@ -139,7 +139,7 @@
 22/04/2023,,20h00,,15,B75,Bourg,La Bièvre,N3B,,,,
 22/04/2023,,20h00,,15,B72,Valence,Rillieux (équipe 2),N3B,,,,
 22/04/2023,y,17h30,y,17,A84,Lyon Rhone,Villefranche,N3A,,,,
-22/04/2023,,18H50,,15,B73,Lyon Rhone (équipe 2),Villefranche (équipe 2),N3B,,,,
+22/04/2023,,18H50,y,15,B73,Lyon Rhone (équipe 2),Villefranche (équipe 2),N3B,,,,
 29/04/2023,y,18h30,y,8,A40,Aix,Annonay,N3A,,,,
 29/04/2023,,20h00,,16,B77,Annemasse,Bourg,N3B,,,,
 29/04/2023,,20h00,,17,A81,Pont de Claix,Chenove,N3A,,,,
@@ -149,7 +149,7 @@
 29/04/2023,,20h00,,16,B80,Seynod,Rillieux (équipe 2),N3B,,,,
 29/04/2023,,20h00,,17,A83,Moulins,Villefontaine,N3A,,,,
 13/05/2023,,20h00,,18,A87,Villefranche,Annonay,N3A,,,,
-13/05/2023,,18h30,,9,A41,Aix,Chenove,N3A,,,,
+13/05/2023,,18h30,y,9,A41,Aix,Chenove,N3A,,,,
 13/05/2023,y,19h15,y,1,B02,Rillieux (équipe 2),Echirolles,N3B,,,,
 13/05/2023,,20h00,,18,A88,Villefontaine,Lyon Rhone,N3A,,,,
 13/05/2023,,20h00,,18,A89,Rillieux,Moulins,N3A,,,,
