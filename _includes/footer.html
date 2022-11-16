@@ -1,19 +1,10 @@
 <footer class="site-footer h-card">
     <data class="u-url" href="{{ "/" | relative_url }}"></data>
-  
+
     <div class="wrapper">
-      Derni&egrave;re mise &agrave; jour le
-    {% if page contains "last_modified_at" -%}
-        {{ page.last_modified_at | date: '%Y-%m-%d %H:%M' }}
-    {% else %}
-        {% include maj.html %}
-    {% endif %}
-    </div>
-  
-    <div class="wrapper">
-  
+
       <h2 class="footer-heading">{{ site.title | escape }}</h2>
-    
+
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
           <ul class="contact-list">
@@ -29,17 +20,16 @@
               {%- endif -%}
           </ul>
         </div>
-  
+
         <div class="footer-col footer-col-2">
           {%- include social.html -%}
         </div>
-  
+
         <div class="footer-col footer-col-3">
           <p>{{- site.description | escape -}}</p>
         </div>
       </div>
-  
+
     </div>
-  
+
   </footer>
-  
