@@ -1,5 +1,4 @@
 ---
-category: waterpolo
 ---
 
 # Saison 2022/2023
