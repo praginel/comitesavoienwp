@@ -3,7 +3,7 @@
 set -euo pipefail
 
 maj_file=_includes/maj.html
-date=$(LC_ALL=fr_FR date '+%A %d %B %Y')
+date=$(LC_ALL=fr_FR.UTF8 date '+%A %d %B %Y')
 if grep -q "$date" "$maj_file"; then
 	echo "Date de modification correcte: $date"
 	exit 0
