@@ -40,11 +40,11 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 26/11/2022,,18h30,y,5,A23,Aix,Ondaine,N3A,Morland,,12,7
 26/11/2022,,19h15,y,6,B27,Rillieux (équipe 2),Valence,N3B,Forjan,,16,13
 26/11/2022,,20h00,,5,A25,Rillieux,Villefontaine,N3A,Forjan,,16,14
-02/12/2022,y,20h00,,4,B19,La Bièvre,Lyon Rhone (équipe 2),N3B,Favry,,10,9
-03/12/2022,,20h00,,6,A30,Annonay,Lyon Rhone,N3A,Favry,,19,13
-03/12/2022,,20h00,,6,A28,Villefranche,Ondaine,N3A,Forjan,,16,11
-03/12/2022,,20h00,,6,A26,Rillieux,Chenove,N3A,Ponsot,,12,13
-03/12/2022,y,21h00,y,16,B78,Villefranche (équipe 2),Echirolles,N3B,Forjan,,,
+02/12/2022,y,20h00,,4,B19,La Bièvre,Lyon Rhone (équipe 2),N3B,Favry,,,
+03/12/2022,,20h00,,6,A30,Annonay,Lyon Rhone,N3A,Favry,,,
+03/12/2022,,20h00,,6,A28,Villefranche,Ondaine,N3A,Forjan,,,
+03/12/2022,,20h00,,6,A26,Rillieux,Chenove,N3A,Ponsot,,,
+03/12/2022,,20h00,,16,B78,Villefranche (équipe 2),Echirolles,N3B,Forjan,,,
 07/12/2022,y,21h00,y,6,A27,Villefontaine,Pont de Claix,N3A,Favry,,,
 10/12/2022,,17h30,y,7,A32,Lyon Rhone,Aix,N3A,Raymond,,,
 10/12/2022,,20h00,,7,B32,Bourg,Annemasse,N3B,Berthillier,,,
@@ -53,7 +53,7 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 10/12/2022,,19h50,y,7,B34,Lyon Rhone (équipe 2),Valence,N3B,Raymond,,,
 10/12/2022,,20h00,,7,A34,Ondaine,Villefontaine,N3A,Mazurier,,,
 10/12/2022,,19h30,y,7,B33,Echirolles,Villefranche (équipe 2),N3B,Forjan,,,
-10/12/2022,y,19h30,y,7,A33,Moulins,Villefranche,N3A,Merlet,,,
+10/12/2022,y,19h30,y,7,A33,Moulins,Villefranche,N3A,Merllet,,,
 15/12/2022,y,19h50,y,5,B22,Echirolles,La Bièvre,N3B,Favry,,,
 17/12/2022,y,20h00,,2,B07,Annemasse,Valence,N3B,,,,
 17/12/2022,y,18h45,y,3,A13,Pont de Claix,Annonay,N3A,,,,
@@ -161,3 +161,7 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 10/06/2023,,20h00,,18,B88,Valence,Bourg,N3B,,,,
 10/06/2023,,20h00,,18,B89,Seynod,Echirolles,N3B,,,,
 10/06/2023,,20h00,,18,B87,Villefranche (équipe 2),La Bièvre,N3B,,,,
+04/12/2022,,09h45,,1,1,Echirolles,Seynod,FEM,Forjan,Ponsot,14,1
+04/12/2022,,11h15,,1,2,Lyon,BFC,FEM,Forjan,Ponsot,17,6
+04/12/2022,,14h00,,1,3,Echirolles,BFC,FEM,Forjan,Ponsot,22,4
+04/12/2022,,15h30,,1,4,Lyon,Seynod,FEM,Forjan,Ponsot,13,7
