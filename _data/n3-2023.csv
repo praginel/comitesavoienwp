@@ -62,11 +62,11 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 17/12/2022,y,18h45,y,3,A13,Pont de Claix,Annonay,N3A,Favry,,,
 17/12/2022,y,20h00,,2,B07,Annemasse,Valence,N3B,Ponsot,Forjan,11,6
 17/12/2022,y,21h00,y,15,A74,Moulins,Aix,N3A,,,14,23
-07/01/2023,,20h00,,17,A85,Annonay,Aix,N3A,,,,
-07/01/2023,,20h00,,8,A39,Villefranche,Lyon Rhone,N3A,,,,
-07/01/2023,,20h00,,8,A38,Villefontaine,Moulins,N3A,,,,
-07/01/2023,,20h00,,8,A37,Rillieux,Ondaine,N3A,,,,
-07/01/2023,y,20h00,,6,B28,Villefranche (équipe 2),Lyon Rhone (équipe 2),N3B,,,,
+07/01/2023,,20h00,,17,A85,Annonay,Aix,N3A,Favry,,,
+07/01/2023,,20h00,,8,A39,Villefranche,Lyon Rhone,N3A,Forjan,,,
+07/01/2023,,20h00,,8,A38,Villefontaine,Moulins,N3A,Mazurier,,,
+07/01/2023,,20h00,,8,A37,Rillieux,Ondaine,N3A,Ponsot,,,
+07/01/2023,y,20h00,,6,B28,Villefranche (équipe 2),Lyon Rhone (équipe 2),N3B,Forjan,,,
 12/01/2023,y,19h50,y,17,B83,Echirolles,Valence,N3B,,,,
 14/01/2023,,20h00,,8,B39,Villefranche (équipe 2),Bourg,N3B,,,,
 14/01/2023,,20h00,,8,B38,Valence,Echirolles,N3B,,,,
