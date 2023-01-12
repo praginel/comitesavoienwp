@@ -50,29 +50,29 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 04/12/2022,,15h30,,1,4,Lyon,Seynod,FEM,Forjan,Ponsot,13,7
 07/12/2022,y,21h00,y,6,A27,Villefontaine,Pont de Claix,N3A,Favry,,11,18
 10/12/2022,,20h00,,7,A31,Annonay,Chenove,N3A,Ponsot,,10,9
-10/12/2022,,20h00,,7,B32,Bourg,Annemasse,N3B,Berthillier,,,
-10/12/2022,,19h30,y,7,B33,Echirolles,Villefranche (équipe 2),N3B,Forjan,,,
+10/12/2022,,20h00,,7,B32,Bourg,Annemasse,N3B,Remis,,,
+10/12/2022,,19h30,y,7,B33,Echirolles,Villefranche (équipe 2),N3B,Forfait2,,8,0
 10/12/2022,,17h30,y,7,A32,Lyon Rhone,Aix,N3A,Raymond,,7,20
 10/12/2022,,19h50,y,7,B34,Lyon Rhone (équipe 2),Valence,N3B,Raymond,,7,12
 10/12/2022,y,19h30,y,7,A33,Moulins,Villefranche,N3A,Merlet,,10,9
 10/12/2022,,20h00,,7,A34,Ondaine,Villefontaine,N3A,Mazurier,,13,12
 10/12/2022,,20h00,,7,A35,Pont de Claix,Rillieux,N3A,Salle,,19,13
-15/12/2022,y,19h50,y,5,B22,Echirolles,La Bièvre,N3B,Favry,,,
+15/12/2022,y,19h50,y,5,B22,Echirolles,La Bièvre,N3B,Forfait2,,8,0
 17/12/2022,y,20h00,,2,B07,Annemasse,Valence,N3B,Ponsot,Forjan,11,6
-17/12/2022,y,21h00,y,15,A74,Moulins,Aix,N3A,,,14,23
-17/12/2022,y,18h45,y,3,A13,Pont de Claix,Annonay,N3A,Favry,,,
-07/01/2023,,20h00,,17,A85,Annonay,Aix,N3A,Favry,,,
-07/01/2023,,20h00,,8,A37,Rillieux,Ondaine,N3A,Ponsot,,,
+17/12/2022,y,21h00,y,15,A74,Moulins,Aix,N3A,Morat,,14,23
+17/12/2022,y,18h45,y,3,A13,Pont de Claix,Annonay,N3A,Remis,,,
+07/01/2023,,20h00,,17,A85,Annonay,Aix,N3A,Favry,,9,27
+07/01/2023,,20h00,,8,A37,Rillieux,Ondaine,N3A,Ponsot,,15,11
 07/01/2023,,20h00,,8,A38,Villefontaine,Moulins,N3A,Remis,,,
-07/01/2023,,20h00,,8,A39,Villefranche,Lyon Rhone,N3A,Forjan,,,
-07/01/2023,y,20h00,,6,B28,Villefranche (équipe 2),Lyon Rhone (équipe 2),N3B,Forjan,,,
-12/01/2023,y,19h50,y,17,B83,Echirolles,Valence,N3B,,,,
-14/01/2023,,20h00,,8,B40,Annemasse,La Bièvre,N3B,,,,
-14/01/2023,,21h00,,9,A44,Moulins,Rillieux,N3A,,,,
-14/01/2023,,20h00,,8,B37,Seynod,Lyon Rhone (équipe 2),N3B,,,,
-14/01/2023,,20h00,,8,B38,Valence,Echirolles,N3B,,,,
-14/01/2023,y,20h00,,12,A60,Villefranche,Villefontaine,N3A,,,,
-14/01/2023,,20h00,,8,B39,Villefranche (équipe 2),Bourg,N3B,,,,
+07/01/2023,,20h00,,8,A39,Villefranche,Lyon Rhone,N3A,Forjan,Ponsot,14,9
+07/01/2023,y,20h00,,6,B28,Villefranche (équipe 2),Lyon Rhone (équipe 2),N3B,Ponsot,Forjan,33,6
+12/01/2023,y,19h50,y,17,B83,Echirolles,Valence,N3B,Favry,,,
+14/01/2023,,20h00,,8,B40,Annemasse,La Bièvre,N3B,Forjan,,,
+14/01/2023,,21h00,,9,A44,Moulins,Rillieux,N3A,Morat,FFN,,
+14/01/2023,,20h00,,8,B37,Seynod,Lyon Rhone (équipe 2),N3B,Berthillier,,,
+14/01/2023,,20h00,,8,B38,Valence,Echirolles,N3B,Favry,,,
+14/01/2023,y,20h00,,12,A60,Villefranche,Villefontaine,N3A,Ponsot,,,
+14/01/2023,,20h00,,8,B39,Villefranche (équipe 2),Bourg,N3B,Ponsot,,,
 21/01/2023,,20h00,,9,A42,Annonay,Villefranche,N3A,,,,
 21/01/2023,,20h00,,9,B43,Bourg,Valence,N3B,,,,
 21/01/2023,,20h00,,18,A86,Chenove,Aix,N3A,,,,
@@ -84,8 +84,8 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 28/01/2023,,20h00,,10,A50,Aix,Villefranche,N3A,,,,
 28/01/2023,,20h00,,10,A49,Annonay,Villefontaine,N3A,,,,
 28/01/2023,,20h00,,10,A46,Chenove,Ondaine,N3A,,,,
-28/01/2023,,17h30,y,10,A48,Lyon Rhone,Rillieux,N3A,,,,
-28/01/2023,y,18h50,y,9,B45,Lyon Rhone (équipe 2),Rillieux (équipe 2),N3B,,,,
+28/01/2023,,20h15,y,10,A48,Lyon Rhone,Rillieux,N3A,,,,
+28/01/2023,y,19h15,y,9,B45,Lyon Rhone (équipe 2),Rillieux (équipe 2),N3B,,,,
 02/02/2023,y,21h00,y,11,A54,Pont de Claix,Lyon Rhone,N3A,,,,
 04/02/2023,,18h30,y,11,A52,Aix,Villefontaine,N3A,,,,
 04/02/2023,,20h00,,11,A55,Ondaine,Moulins,N3A,,,,
