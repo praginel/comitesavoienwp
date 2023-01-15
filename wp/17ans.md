@@ -1,7 +1,7 @@
 ---
 title: U17
 poule: U17
-category: waterpoloH
+category: waterpolo
 datatable: true
 ---
 
