@@ -67,7 +67,7 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 07/01/2023,,20h00,,8,A39,Villefranche,Lyon Rhone,N3A,Forjan,Ponsot,14,9
 07/01/2023,y,20h00,,6,B28,Villefranche (équipe 2),Lyon Rhone (équipe 2),N3B,Ponsot,Forjan,33,6
 12/01/2023,y,19h50,y,17,B83,Echirolles,Valence,N3B,Favry,,,
-14/01/2023,,20h00,,8,B40,Annemasse,La Bièvre,N3B,Forjan,,,
+14/01/2023,,20h00,,8,B40,Annemasse,La Bièvre,N3B,Forjan,,20,10
 14/01/2023,,21h00,,9,A44,Moulins,Rillieux,N3A,Morat,FFN,,
 14/01/2023,,20h00,,8,B37,Seynod,Lyon Rhone (équipe 2),N3B,Berthillier,,,
 14/01/2023,,20h00,,8,B38,Valence,Echirolles,N3B,Favry,,,
@@ -111,8 +111,8 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 04/03/2023,,20h00,,13,A61,Villefontaine,Chenove,N3A,,,,
 04/03/2023,,19h30,y,13,A62,Villefranche,Rillieux,N3A,,,,
 04/03/2023,,21h00,y,14,B69,Villefranche (équipe 2),Rillieux (équipe 2),N3B,,,,
-11/03/2023,y,18h30,y,6,A29,Aix,Moulins,N3A,,,,
-11/03/2023,y,20h15,y,4,A18,Aix,Pont de Claix,N3A,,,,
+11/03/2023,y,19h30,y,6,A29,Aix,Moulins,N3A,,,,
+11/03/2023,y,21h00,y,4,A18,Aix,Pont de Claix,N3A,,,,
 11/03/2023,,20h00,,12,B59,Annemasse,Seynod,N3B,,,,
 11/03/2023,,20h00,,12,B57,Bourg,Lyon Rhone (équipe 2),N3B,,,,
 11/03/2023,,20h00,,12,B58,La Bièvre,Rillieux (équipe 2),N3B,,,,
@@ -165,3 +165,19 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 10/06/2023,,20h00,,18,B89,Seynod,Echirolles,N3B,,,,
 10/06/2023,,20h00,,18,B88,Valence,Bourg,N3B,,,,
 10/06/2023,,20h00,,18,B87,Villefranche (équipe 2),La Bièvre,N3B,,,,
+20/11/2022,,14h00,,1,1,PDCG,AIX,U15,Favry,Vaillant,21,14
+20/11/2022,,15h00,,1,2,VILLEFRANCHE,MOULINS,U15,Favry,Daché,24,7
+20/11/2022,,16h00,,1,3,PDCG,VILLEFRANCHE,U15,Favry,Martinelli,19,14
+20/11/2022,,17h00,,1,4,AIX,MOULINS,U15,Favry,Vaillant,24,4
+20/11/2022,,12h45,,1,5,CHENOVE,RILLIEUX,U15,,,14,6
+20/11/2022,,14h00,,1,6,GIVORS,MONTPELLIER,U15,,,11,15
+20/11/2022,,15h15,,1,7,RILLIEUX,GIVORS,U15,,,8,22
+20/11/2022,,16h30,,1,8,CHENOVE,MONTPELLIER,U15,,,7,19
+15/01/2023,,13h30,,2,9,GIVORS,CHENOVE,U15,,,,
+15/01/2023,,14h45,,2,10,MOULINS,RILLIEUX,U15,,,,
+15/01/2023,,16h00,,2,11,GIVORS,,U15,,,,
+15/01/2023,,17h15,,2,12,CHENOVE,,U15,,,,
+15/01/2023,,13h30,,2,13,VILLEFRANCHE,AIX,U15,,,23,10
+15/01/2023,,14h45,,2,14,PDCG,CARROUGE,U15,,,,
+15/01/2023,,16h15,,2,15,VILLEFRANCHE,PDCG,U15,,,,
+15/01/2023,,17h30,,2,16,AIX,CARROUGE,U15,,,14,18
