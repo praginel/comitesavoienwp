@@ -73,19 +73,19 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 03/05/2023,Y,19H30,Y,8,B38,Valence,Echirolles,N3B,,,,
 14/01/2023,y,20h00,,12,A60,Villefranche,Villefontaine,N3A,Ponsot,,18,15
 14/01/2023,,20h00,,8,B39,Villefranche (équipe 2),Bourg,N3B,Ponsot,,13,7
-21/01/2023,,20h00,,9,A42,Annonay,Villefranche,N3A,Jadeau,,,
-21/01/2023,,20h00,,9,B43,Bourg,Valence,N3B,Favry,,,
-21/01/2023,,20h00,,18,A86,Chenove,Aix,N3A,Berthillier,,,
-21/01/2023,y,19h30,y,10,B47,Echirolles,Rillieux (équipe 2),N3B,Ponsot,,,
+21/01/2023,,20h00,,9,A42,Annonay,Villefranche,N3A,Jadeau,,19,18
+21/01/2023,,20h00,,9,B43,Bourg,Valence,N3B,Favry,,8,0
+21/01/2023,,20h00,,18,A86,Chenove,Aix,N3A,Berthillier,,13,14
+21/01/2023,y,19h30,y,10,B47,Echirolles,Rillieux (équipe 2),N3B,Ponsot,,8,12
 21/01/2023,,20h00,,9,B42,La Bièvre,Villefranche (équipe 2),N3B,Mazurier,,,
 21/01/2023,,18h45,y,18,A90,Pont de Claix,Ondaine,N3A,Forjan,Filoni,,
-22/01/2023,y,14h00,y,9,A43,Lyon Rhone,Villefontaine,N3A,Filoni,Favry,,
-26/01/2023,y,19h50,y,9,B44,Echirolles,Seynod,N3B,,,,
-28/01/2023,,20h00,,10,A50,Aix,Villefranche,N3A,,,,
-28/01/2023,,20h00,,10,A49,Annonay,Villefontaine,N3A,,,,
-28/01/2023,,20h00,,10,A46,Chenove,Ondaine,N3A,,,,
-28/01/2023,,20h15,y,10,A48,Lyon Rhone,Rillieux,N3A,,,,
-28/01/2023,y,19h15,y,9,B45,Lyon Rhone (équipe 2),Rillieux (équipe 2),N3B,,,,
+22/01/2023,y,14h00,y,9,A43,Lyon Rhone,Villefontaine,N3A,Filoni,Favry,19,11
+26/01/2023,y,19h50,y,9,B44,Echirolles,Seynod,N3B,Remis,,,
+28/01/2023,,20h00,,10,A50,Aix,Villefranche,N3A,Favry,,,
+28/01/2023,,20h00,,10,A49,Annonay,Villefontaine,N3A,Ponsot,,,
+28/01/2023,,20h00,,10,A46,Chenove,Ondaine,N3A,Daché,,,
+28/01/2023,,20h15,y,10,A48,Lyon Rhone,Rillieux,N3A,Forjan,Mazurier,,
+28/01/2023,y,19h15,y,9,B45,Lyon Rhone (équipe 2),Rillieux (équipe 2),N3B,Mazurier,Forjan,,
 02/02/2023,y,21h00,y,11,A54,Pont de Claix,Lyon Rhone,N3A,,,,
 04/02/2023,,18h30,y,11,A52,Aix,Villefontaine,N3A,,,,
 04/02/2023,,20h00,,11,A55,Ondaine,Moulins,N3A,,,,
@@ -206,3 +206,7 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 11/12/2022,,16h00,,2,9,GIVORS,AIX,U17,Mazurier,,24,15
 11/12/2022,,13h30,,2,10,CHENOVE,VILLEFRANCHE,U17,,,6,26
 11/12/2022,,14h45,,2,11,VILLEFRANCHE,PDCG,U17,,,26,17
+29/01/2023,,13h00,,2,5,Lyon,Echirolles,FEM,Mazurier,,,
+29/01/2023,,14h15,,2,6,Seynod,BFC,FEM,Mazurier,,,
+29/01/2023,,15h30,,2,7,Lyon,BFC,FEM,Mazurier,,,
+29/01/2023,,16h45,,2,8,Seynod,Echirolles,FEM,Mazurier,,,
