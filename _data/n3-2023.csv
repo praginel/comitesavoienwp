@@ -136,7 +136,7 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 08/04/2023,,18h30,y,16,A77,Aix,Lyon Rhone,N3A,,,,
 08/04/2023,,20h00,,16,A76,Chenove,Annonay,N3A,,,,
 08/04/2023,,20h00,,16,A80,Rillieux,Pont de Claix,N3A,,,,
-08/04/2023,y,19h15,y,18,B90,Rillieux (équipe 2),Lyon Rhone (équipe 2,N3B,,,,
+08/04/2023,y,19h15,y,18,B90,Rillieux (équipe 2),Lyon Rhone (équipe 2),N3B,,,,
 08/04/2023,,20h00,,16,A79,Villefontaine,Ondaine,N3A,,,,
 08/04/2023,,20h00,,16,A78,Villefranche,Moulins,N3A,,,,
 22/04/2023,,20h00,,15,B75,Bourg,La Bièvre,N3B,,,,
@@ -210,3 +210,16 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 29/01/2023,,14h15,,2,6,Seynod,BFC,FEM,Mazurier,,,
 29/01/2023,,15h30,,2,7,Lyon,BFC,FEM,Mazurier,,,
 29/01/2023,,16h45,,2,8,Seynod,Echirolles,FEM,Mazurier,,,
+29/01/2023,,14H15,,3,,PDCG,CARROUGE,U13,Favry,,,
+29/01/2023,,15h30,,3,,AIX,CARROUGE,U13,,,,
+29/01/2023,,16h45,,3,15,PDCG,AIX,U13,,,,
+29/01/2023,,13h30,,3,16,VILLEFRANCHE,RILLIEUX,U13,,,12,0
+29/01/2023,,14h00,,3,17,GIVORS,MOULINS,U13,,,16,1
+29/01/2023,,14h25,,3,18,ANNONAY,RILLIEUX,U13,,,1,7
+29/01/2023,,14h50,,3,19,MOULINS,VILLEFRANCHE,U13,,,1,6
+29/01/2023,,15h15,,3,20,ANNONAY,GIVORS,U13,,,2,23
+29/01/2023,,15h40,,3,21,MOULINS,RILLIEUX,U13,,,6,1
+29/01/2023,,16h05,,3,22,ANNONAY,MOULINS,U13,,,1,17
+29/01/2023,,16h30,,3,23,VILLEFRANCHE,ANNONAY,U13,,,,
+29/01/2023,,16h55,,3,24,GIVORS,RILLIEUX,U13,,,,
+29/01/2023,,17h20,,3,25,GIVORS,VILLEFRANCHE,U13,,,,
