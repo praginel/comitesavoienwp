@@ -1,7 +1,6 @@
 date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,arbitre1,arbitre2,score_locaux,score_visiteurs
 08/10/2022,,20h00,,1,A01,Ondaine,Chenove,N3A,,,8,0
 08/10/2022,,20h00,,1,A02,Pont de Claix,Moulins,N3A,Remis,,,
-08/10/2022,,20h00,,1,A04,Villefontaine,Annonay,N3A,Remis,,,
 08/10/2022,,20h00,,1,A05,Villefranche,Aix,N3A,Filoni,,12,16
 15/10/2022,,20h00,,1,B50,Annemasse,Villefranche (équipe 2),N3B,Forfait 2,,8,0
 15/10/2022,,20h00,,2,A08,Annonay,Rillieux,N3A,Salle,,17,20
@@ -118,6 +117,7 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 18/03/2023,,20h00,,14,A69,Villefranche,Pont de Claix,N3A,,,,
 18/03/2023,,20h00,,4,B17,Villefranche (équipe 2),Seynod,N3B,,,,
 19/03/2023,y,14h00,y,13,B64,Lyon Rhone (équipe 2),La Bièvre,N3B,,,,
+22/03/2023,y,20h00,y,1,A04,Villefontaine,Annonay,N3A,,,,
 25/03/2023,y,20h00,,12,A58,Annonay,Pont de Claix,N3A,,,,
 25/03/2023,y,20h00,,4,B20,Bourg,Echirolles,N3B,,,,
 25/03/2023,y,20h00,,1,A03,Rillieux,Lyon Rhone,N3A,,,,
@@ -226,13 +226,13 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 26/02/2023,,13h00,,4,26,MOULINS,RILLIEUX,U13,,,,
 26/02/2023,,14h30,,4,29,MOULINS,AIX,U13,,,,
 26/02/2023,,15h00,,4,30,RILLIEUX,AIX,U13,,,,
-12/03/2023,,10h00,,3,9,Echirolles,Seynod,FEM,,,,
-12/03/2023,,12h00,,3,10,Seynod,Lyon,FEM,,,,
-12/03/2023,,14h30,,3,11,Echirolles,Lyon,FEM,,,,
+12/03/2023,,10h00,,3,9,Echirolles,Seynod,FEM,,,12,6
+12/03/2023,,12h00,,3,10,Seynod,Lyon,FEM,,,4,15
+12/03/2023,,14h30,,3,11,Echirolles,Lyon,FEM,,,8,5
 12/03/2023,,13h45,,5,E3,AIX,CAROUGE,U13,,,13,11
 12/03/2023,,15h00,,5,31,PDCG,GIVORS,U13,,,17,4
 12/03/2023,,16h15,,5,E4,GIVORS,CAROUGE,U13,,,,
-12/03/2023,,17h30,,5,32,AIX,PDCG,U13,,,,
+12/03/2023,,17h30,,5,32,AIX,PDCG,U13,,,16,20
 12/03/2023,,13h30,,5,33,ANNONAY,MOULINS,U13,,,,
 12/03/2023,,14h30,,5,34,VILLEFRANCHE,RILLIEUX,U13,,,,
 12/03/2023,,15h30,,5,35,MOULINS,,U13,,,,
@@ -246,9 +246,9 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 29/01/2023,,13h30,,3,13,MOULINS,VILLEFRANCHE,U17,,,23,16
 29/01/2023,,14h45,,3,14,VILLEFRANCHE,GIVORS,U17,,,24,25
 29/01/2023,,16h00,,3,15,MOULINS,GIVORS,U17,,,14,18
-12/03/2023,,13h30,,4,16,GIVORS,MOULINS,U17,,,,
-12/03/2023,,14h45,,4,17,MOULINS,VILLEFRANCHE,U17,,,,
-12/03/2023,,16h00,,4,18,GIVORS,VILLEFRANCHE,U17,,,,
+12/03/2023,,13h30,,4,16,GIVORS,MOULINS,U17,,,19,22
+12/03/2023,,14h45,,4,17,MOULINS,VILLEFRANCHE,U17,,,18,14
+12/03/2023,,16h00,,4,18,GIVORS,VILLEFRANCHE,U17,,,14,29
 12/03/2023,,14h15,,4,19,PDCG,CHENOVE,U17,,,15,9
 12/03/2023,,15h30,,4,20,AIX,CHENOVE,U17,,,25,6
 12/03/2023,,16h45,,4,21,PDCG,AIX,U17,,,13,32
