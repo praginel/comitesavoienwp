@@ -49,7 +49,6 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 04/12/2022,,15h30,,1,4,Lyon,Seynod,FEM,Forjan,Ponsot,13,7
 07/12/2022,y,21h00,y,6,A27,Villefontaine,Pont de Claix,N3A,Favry,,11,18
 10/12/2022,,20h00,,7,A31,Annonay,Chenove,N3A,Ponsot,,10,9
-10/12/2022,,20h00,,7,B32,Bourg,Annemasse,N3B,Remis,,,
 10/12/2022,,19h30,y,7,B33,Echirolles,Villefranche (équipe 2),N3B,Forfait2,,8,0
 10/12/2022,,17h30,y,7,A32,Lyon Rhone,Aix,N3A,Raymond,,7,20
 10/12/2022,,19h50,y,7,B34,Lyon Rhone (équipe 2),Valence,N3B,Raymond,,7,12
@@ -158,6 +157,7 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 13/05/2023,,20h00,,18,A88,Villefontaine,Lyon Rhone,N3A,,,,
 13/05/2023,,20h00,,18,A87,Villefranche,Annonay,N3A,,,,
 13/05/2023,,20h00,,12,B60,Villefranche (équipe 2),Valence,N3B,,,,
+13/05/2023,y,20h00,,7,B32,Bourg,Annemasse,N3B,,,,
 03/06/2023,,20h00,,17,B84,Bourg,Villefranche (équipe 2),N3B,,,,
 03/06/2023,,20h00,,17,B85,La Bièvre,Annemasse,N3B,,,,
 03/06/2023,,18h15,y,17,B82,Lyon Rhone (équipe 2),Seynod,N3B,,,,
@@ -244,10 +244,10 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 02/04/2022,,15h30,,4,16,Lyon,Echirolles,FEM,,,,
 02/04/2022,,16h45,,4,17,BFC,Seynod,FEM,,,,
 29/01/2023,,13h30,,3,13,MOULINS,VILLEFRANCHE,U17,,,23,16
-29/01/2023,,14h45,,3,14,VILLEFRANCHE,GIVORS,U17,,,24,25
+29/01/2023,,14h45,,3,14,VILLEFRANCHE,GIVORS,U17,,,25,24
 29/01/2023,,16h00,,3,15,MOULINS,GIVORS,U17,,,14,18
 12/03/2023,,13h30,,4,16,GIVORS,MOULINS,U17,,,19,22
-12/03/2023,,14h45,,4,17,MOULINS,VILLEFRANCHE,U17,,,18,14
+12/03/2023,,14h45,,4,17,VILLEFRANCHE,MOULINS,U17,,,14,14
 12/03/2023,,16h00,,4,18,GIVORS,VILLEFRANCHE,U17,,,14,29
 12/03/2023,,14h15,,4,19,PDCG,CHENOVE,U17,,,15,9
 12/03/2023,,15h30,,4,20,AIX,CHENOVE,U17,,,25,6
