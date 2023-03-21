@@ -90,6 +90,7 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 18/02/2023,y,20h00,,11,A55,Ondaine,Moulins,N3A,Mazurier,,9,13
 18/02/2023,,20h00,,10,B48,Bourg,Seynod,N3B,Remis,,,
 18/02/2023,,20h00,,10,B49,La Bièvre,Valence,N3B,Forjan,,12,14
+25/02/2023,y,20h00,,12,A58,Annonay,Pont de Claix,N3A,Forjan,,17,11
 25/02/2023,,20h00,,12,A56,Chenove,Moulins,N3A,Jadeau,,9,11
 25/02/2023,y,19h00,y,11,B53,La Bièvre,Seynod,N3B,Merlet,,13,16
 25/02/2023,,20h00,,12,A59,Rillieux,Aix,N3A,Mazurier,,16,13
@@ -110,17 +111,16 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 11/03/2023,,20h00,,12,B57,Bourg,Lyon Rhone (équipe 2),N3B,Berthillier,,12,7
 11/03/2023,,19h00,,12,B58,La Bièvre,Rillieux (équipe 2),N3B,Mazurier,,8,18
 16/03/2023,y,21h00,y,11,A54,Pont de Claix,Lyon Rhone,N3A,Favry,Filoni,17,11
-18/03/2023,,20h00,,14,A66,Chenove,Lyon Rhone,N3A,,,,
-18/03/2023,,20h00,,14,A68,Ondaine,Aix,N3A,,,,
-18/03/2023,,20h00,,14,A70,Villefontaine,Rillieux,N3A,,,,
-18/03/2023,,20h00,,14,A69,Villefranche,Pont de Claix,N3A,,,,
-18/03/2023,,20h00,,4,B17,Villefranche (équipe 2),Seynod,N3B,,,,
-19/03/2023,y,14h00,y,13,B64,Lyon Rhone (équipe 2),La Bièvre,N3B,,,,
-22/03/2023,y,20h00,y,1,A04,Villefontaine,Annonay,N3A,,,,
-25/03/2023,y,20h00,,12,A58,Annonay,Pont de Claix,N3A,,,,
-25/03/2023,y,20h00,,4,B20,Bourg,Echirolles,N3B,,,,
-25/03/2023,y,20h00,,1,A03,Rillieux,Lyon Rhone,N3A,,,,
-25/03/2023,,19h15,y,13,B63,Rillieux (équipe 2),Annemasse,N3B,,,,
+18/03/2023,,20h00,,14,A66,Chenove,Lyon Rhone,N3A,Vial,,8,7
+18/03/2023,,20h00,,14,A68,Ondaine,Aix,N3A,Jadeau,,,
+18/03/2023,,20h00,,14,A70,Villefontaine,Rillieux,N3A,Favry,,,
+18/03/2023,,20h00,,14,A69,Villefranche,Pont de Claix,N3A,Mazurier,,21,4
+18/03/2023,,20h00,,4,B17,Villefranche (équipe 2),Seynod,N3B,Mazurier,,15,11
+19/03/2023,y,14h00,y,13,B64,Lyon Rhone (équipe 2),La Bièvre,N3B,Mazurier,,,
+22/03/2023,y,20h00,y,1,A04,Villefontaine,Annonay,N3A,Filoni,,,
+25/03/2023,y,20h00,,4,B20,Bourg,Echirolles,N3B,Ponsot,,,
+25/03/2023,y,20h00,,1,A03,Rillieux,Lyon Rhone,N3A,Mazurier,Forjan,,
+25/03/2023,,19h15,y,13,B63,Rillieux (équipe 2),Annemasse,N3B,Forjan,Mazurier,,
 30/03/2023,y,20h00,,15,A72,Pont de Claix,Villefontaine,N3A,,,,
 01/04/2023,,20h00,,14,B68,Annemasse,Lyon Rhone (équipe 2),N3B,,,,
 01/04/2023,,20h00,,15,A71,Chenove,Rillieux,N3A,,,,
@@ -259,3 +259,7 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 26/03/2023,,15h30,,4,21,VILLEFRANCHE,AIX,U15,,,,
 26/03/2023,,16h45,,4,22,MONTPELLIER,,U15,,,,
 26/03/2023,,18h00,,4,23,PDCG,,U15,,,,
+26/03/2023,,12h45,,4,24,CHENOVE,RILLIEUX,U15,,,,
+26/03/2023,,14h00,,4,25,GIVORS,MOULINS,U15,,,,
+26/03/2023,,15h15,,4,26,RILLIEUX,,U15,,,,
+26/03/2023,,16h30,,4,27,CHENOVE,,U15,,,,
