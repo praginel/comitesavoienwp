@@ -132,7 +132,7 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 08/04/2023,,20h00,,16,A76,Chenove,Annonay,N3A,Bertillier,,,
 08/04/2023,,20h00,,16,A80,Rillieux,Pont de Claix,N3A,Ponsot,,,
 08/04/2023,y,19h15,y,18,B90,Rillieux (équipe 2),Lyon Rhone (équipe 2),N3B,Ponsot,,,
-08/04/2023,,20h00,,16,A79,Villefontaine,Ondaine,N3A,Fotjan,,,
+27/04/2023,y,20h00,,16,A79,Villefontaine,Ondaine,N3A,,,,
 08/04/2023,,20h00,,16,A78,Villefranche,Moulins,N3A,Mazurier,,,
 15/04/2023,y,20h00,,10,B48,Bourg,Seynod,N3B,Favry,,,
 22/04/2023,,20h00,,15,B75,Bourg,La Bièvre,N3B,,,,
@@ -237,12 +237,12 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 12/03/2023,,14h30,,5,34,VILLEFRANCHE,RILLIEUX,U13,,,,
 12/03/2023,,15h30,,5,35,MOULINS,,U13,,,,
 12/03/2023,,16h30,,5,36,ANNONAY,,U13,,,,
-02/04/2022,,10h00,,4,12,BFC,Lyon,FEM,,,,
-02/04/2022,,11h45,,4,13,Seynod,Echirolles,FEM,,,,
-02/04/2022,,13h00,,4,14,BFC,Echirolles,FEM,,,,
-02/04/2022,,14h15,,4,15,Lyon,Seynod,FEM,,,,
-02/04/2022,,15h30,,4,16,Lyon,Echirolles,FEM,,,,
-02/04/2022,,16h45,,4,17,BFC,Seynod,FEM,,,,
+02/04/2022,,10h00,,4,12,BFC,Lyon,FEM,,,2,10
+02/04/2022,,11h45,,4,13,Seynod,Echirolles,FEM,,,10,17
+02/04/2022,,13h00,,4,14,BFC,Echirolles,FEM,,,4,8
+02/04/2022,,14h15,,4,15,Lyon,Seynod,FEM,,,14,5
+02/04/2022,,15h30,,4,16,Lyon,Echirolles,FEM,,,11,2
+02/04/2022,,16h45,,4,17,BFC,Seynod,FEM,,,7,5
 29/01/2023,,13h30,,3,13,MOULINS,VILLEFRANCHE,U17,,,23,16
 29/01/2023,,14h45,,3,14,VILLEFRANCHE,GIVORS,U17,,,25,24
 29/01/2023,,16h00,,3,15,MOULINS,GIVORS,U17,,,14,18
