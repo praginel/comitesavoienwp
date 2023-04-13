@@ -1,6 +1,6 @@
 date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,arbitre1,arbitre2,score_locaux,score_visiteurs
-08/10/2022,,20h00,,1,A01,Ondaine,Chenove,N3A,,,8,0
-08/10/2022,,20h00,,1,A02,Pont de Claix,Moulins,N3A,Remis,,,
+08/10/2022,,20h00,,1,A01,Ondaine,Chenove,N3A,Forfait2,,8,0
+08/10/2022,,20h00,,1,A02,Pont de Claix,Moulins,N3A,Forfait2,,8,0
 08/10/2022,,20h00,,1,A05,Villefranche,Aix,N3A,Filoni,,12,16
 15/10/2022,,20h00,,1,B50,Annemasse,Villefranche (équipe 2),N3B,Forfait 2,,8,0
 15/10/2022,,20h00,,2,A08,Annonay,Rillieux,N3A,Salle,,17,20
@@ -9,13 +9,13 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 15/10/2022,,21h00,,2,A10,Moulins,Ondaine,N3A,Bourgès,,12,4
 15/10/2022,,20h00,,1,B03,Seynod,Bourg,N3B,Daché,,15,12
 15/10/2022,,20h00,,1,B04,Valence,La Bièvre,N3B,Mazurier,,21,8
-15/10/2022,,20h00,,2,A07,Villefontaine,Aix,N3A,Remis,,,
+15/10/2022,,20h00,,2,A07,Villefontaine,Aix,N3A,,,0,8
 22/10/2022,,20h00,,2,B09,Bourg,Rillieux (équipe 2),N3B,Mazurier,,16,13
 22/10/2022,,19h30,,2,B10,Echirolles,Lyon Rhone (équipe 2),N3B,Favry,,20,1
 29/10/2022,y,20h00,,2,B08,Seynod,La Bièvre,N3B,Favry,,15,3
-01/11/2022,y,13h30,,10,A47,Moulins,Pont de Claix,N3A,Remis,,,
+01/11/2022,y,13h30,,10,A47,Moulins,Pont de Claix,N3A,,,19,13
 05/11/2022,,18h15,y,3,B12,Lyon Rhone (équipe 2),Bourg,N3B,Raymond,,5,14
-05/11/2022,,21h00,y,3,A11,Moulins,Chenove,N3A,Vargas,Brugière,,
+05/11/2022,,21h00,y,3,A11,Moulins,Chenove,N3A,Forfait2,,8,0
 05/11/2022,,20h00,,3,A12,Ondaine,Lyon Rhone,N3A,Mazurier,,14,17
 05/11/2022,,20h00,,3,B13,Rillieux (équipe 2),La Bièvre,N3B,Daché,,22,8
 05/11/2022,,20h00,,3,B14,Seynod,Annemasse,N3B,Ponsot,,8,11
@@ -42,7 +42,7 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 03/12/2022,,20h00,,6,A30,Annonay,Lyon Rhone,N3A,Favry,,19,13
 03/12/2022,,20h00,,6,A26,Rillieux,Chenove,N3A,Ponsot,,12,13
 03/12/2022,,20h00,,6,A28,Villefranche,Ondaine,N3A,Forjan,,16,11
-03/12/2022,,20h00,,16,B78,Villefranche (équipe 2),Echirolles,N3B,Forjan,,8,0
+03/12/2022,,20h00,,16,B78,Villefranche (équipe 2),Echirolles,N3B,Forfait2,,8,0
 04/12/2022,,09h45,,1,1,Echirolles,Seynod,FEM,Forjan,Ponsot,14,1
 04/12/2022,,14h00,,1,3,Echirolles,BFC,FEM,Forjan,Ponsot,22,4
 04/12/2022,,11h15,,1,2,Lyon,BFC,FEM,Forjan,Ponsot,17,6
@@ -58,9 +58,10 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 15/12/2022,y,19h50,y,5,B22,Echirolles,La Bièvre,N3B,Forfait2,,8,0
 17/12/2022,y,20h00,,2,B07,Annemasse,Valence,N3B,Ponsot,Forjan,11,6
 17/12/2022,y,21h00,y,15,A74,Moulins,Aix,N3A,Morat,,14,23
+17/12/2022,,18h45,,3,A13,Pont de Claix,Annonay,N3A,,,0,8
 07/01/2023,,20h00,,17,A85,Annonay,Aix,N3A,Favry,,9,27
 07/01/2023,,20h00,,8,A37,Rillieux,Ondaine,N3A,Ponsot,,15,11
-07/01/2023,,20h00,,8,A38,Villefontaine,Moulins,N3A,Remis,,,
+07/01/2023,,20h00,,8,A38,Villefontaine,Moulins,N3A,Forfait2,,8,0
 07/01/2023,,20h00,,8,A39,Villefranche,Lyon Rhone,N3A,Forjan,Ponsot,14,9
 07/01/2023,y,20h00,,6,B28,Villefranche (équipe 2),Lyon Rhone (équipe 2),N3B,Ponsot,Forjan,33,6
 12/01/2023,y,19h50,y,17,B83,Echirolles,Valence,N3B,Favry,,11,8
@@ -148,7 +149,6 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 29/04/2023,,20h00,,16,B80,Seynod,Rillieux (équipe 2),N3B,,,,
 16/06/2023,,20h00,,16,B79,Valence,Lyon Rhone (équipe 2),N3B,,,,
 03/05/2023,Y,19H30,Y,8,B38,Valence,Echirolles,N3B,,,,
-06/05/2023,y,18h45,y,3,A13,Pont de Claix,Annonay,N3A,,,,
 06/05/2023,y,20h00,,13,A65,Moulins,Lyon Rhone,N3A,,,,
 13/05/2023,y,20h00,,9,A45,Ondaine,Pont de Claix,N3A,,,,
 13/05/2023,,20h00,,18,A89,Rillieux,Moulins,N3A,,,,
