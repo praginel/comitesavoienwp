@@ -127,12 +127,12 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 01/04/2023,,18h15,y,15,A75,Lyon Rhone,Annonay,N3A,Favry,,18,7
 01/04/2023,,20h00,,15,A73,Ondaine,Villefranche,N3A,Mazurier,,9,10
 01/04/2023,y,20h00,y,5,B25,Seynod,Valence,N3B,Filoni,,11,10
-06/04/2023,y,19h50,y,9,B44,Echirolles,Seynod,N3B,Favry,,,
-08/04/2023,,18h30,y,16,A77,Aix,Lyon Rhone,N3A,Filoni,,,
-08/04/2023,,20h00,,16,A76,Chenove,Annonay,N3A,Bertillier,,,
-08/04/2023,,20h00,,16,A80,Rillieux,Pont de Claix,N3A,Ponsot,,,
-08/04/2023,y,19h15,y,18,B90,Rillieux (équipe 2),Lyon Rhone (équipe 2),N3B,Ponsot,,,
-08/04/2023,,20h00,,16,A78,Villefranche,Moulins,N3A,Mazurier,,,
+06/04/2023,y,19h50,y,9,B44,Echirolles,Seynod,N3B,Favry,,9,8
+08/04/2023,,18h30,y,16,A77,Aix,Lyon Rhone,N3A,Filoni,,20,12
+08/04/2023,,20h00,,16,A76,Chenove,Annonay,N3A,Bertillier,,15,10
+08/04/2023,,20h00,,16,A80,Rillieux,Pont de Claix,N3A,Ponsot,,14,13
+08/04/2023,y,19h15,y,18,B90,Rillieux (équipe 2),Lyon Rhone (équipe 2),N3B,Ponsot,,20,4
+08/04/2023,,20h00,,16,A78,Villefranche,Moulins,N3A,,,8,0
 15/04/2023,y,20h00,,10,B48,Bourg,Seynod,N3B,Favry,,,
 22/04/2023,,20h00,,15,B75,Bourg,La Bièvre,N3B,,,,
 22/04/2023,,20h00,,15,B72,Valence,Rillieux (équipe 2),N3B,,,,
