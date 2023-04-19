@@ -135,11 +135,11 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 08/04/2023,y,19h15,y,18,B90,Rillieux (équipe 2),Lyon Rhone (équipe 2),N3B,Ponsot,,20,4
 08/04/2023,,20h00,,16,A78,Villefranche,Moulins,N3A,,,8,0
 15/04/2023,y,20h00,,10,B48,Bourg,Seynod,N3B,Favry,,,
-22/04/2023,,20h00,,15,B75,Bourg,La Bièvre,N3B,,,,
-22/04/2023,,20h00,,15,B72,Valence,Rillieux (équipe 2),N3B,,,,
-23/04/2023,y,13h30,y,17,A84,Lyon Rhone,Villefranche,N3A,,,,
-23/04/2023,y,15h15,y,15,B73,Lyon Rhone (équipe 2),Villefranche (équipe 2),N3B,,,,
-27/04/2023,y,20h00,,16,A79,Villefontaine,Ondaine,N3A,,,,
+22/04/2023,,20h00,,15,B75,Bourg,La Bièvre,N3B,Ponsot,,,
+22/04/2023,,20h00,,15,B72,Valence,Rillieux (équipe 2),N3B,Mazurier,,,
+23/04/2023,y,13h30,y,17,A84,Lyon Rhone,Villefranche,N3A,Mazurier,Forjan,,
+23/04/2023,y,15h15,y,15,B73,Lyon Rhone (équipe 2),Villefranche (équipe 2),N3B,Forjan,Mazurier,,
+27/04/2023,y,20h00,,16,A79,Villefontaine,Ondaine,N3A,Mazurier,,,
 29/04/2023,y,18h30,y,8,A40,Aix,Annonay,N3A,,,,
 29/04/2023,,20h00,,16,B77,Annemasse,Bourg,N3B,,,,
 29/04/2023,y,20h00,,8,A36,Chenove,Pont de Claix,N3A,,,,
