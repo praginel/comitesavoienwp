@@ -141,11 +141,11 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 23/04/2023,y,15h15,y,15,B73,Lyon Rhone (équipe 2),Villefranche (équipe 2),N3B,Forjan,Mazurier,10,18
 27/04/2023,y,20h00,,16,A79,Villefontaine,Ondaine,N3A,Mazurier,,,
 29/04/2023,y,18h30,y,8,A40,Aix,Annonay,N3A,Forfait 1,,0,8
-29/04/2023,,20h00,,16,B77,Annemasse,Bourg,N3B,,,,
-29/04/2023,y,20h00,,8,A36,Chenove,Pont de Claix,N3A,,,,
-29/04/2023,,20h00,,17,A83,Moulins,Villefontaine,N3A,,,,
+29/04/2023,,20h00,,16,B77,Annemasse,Bourg,N3B,Forjan,,,
+29/04/2023,,20h00,,17,A83,Moulins,Villefontaine,N3A,Mazurier,,,
 29/04/2023,,20h00,,17,A82,Ondaine,Rillieux,N3A,,,,
-30/04/2023,y,14h30,,17,A81,Pont de Claix,Chenove,N3A,,,,
+29/04/2023,y,20h00,,8,A36,Chenove,Pont de Claix,N3A,,,,
+30/04/2023,y,14h30,,17,A81,Pont de Claix,Chenove,N3A,Forjan,,,
 29/04/2023,,20h00,,16,B80,Seynod,Rillieux (équipe 2),N3B,,,,
 16/06/2023,,20h00,,16,B79,Valence,Lyon Rhone (équipe 2),N3B,,,,
 03/05/2023,Y,19H30,Y,8,B38,Valence,Echirolles,N3B,,,,
