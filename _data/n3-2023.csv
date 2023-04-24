@@ -133,25 +133,25 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 08/04/2023,,20h00,,16,A76,Chenove,Annonay,N3A,Bertillier,,15,10
 08/04/2023,,20h00,,16,A80,Rillieux,Pont de Claix,N3A,Ponsot,,14,13
 08/04/2023,y,19h15,y,18,B90,Rillieux (équipe 2),Lyon Rhone (équipe 2),N3B,Ponsot,,20,4
-08/04/2023,,20h00,,16,A78,Villefranche,Moulins,N3A,,,8,0
-15/04/2023,y,20h00,,10,B48,Bourg,Seynod,N3B,Favry,,,
-22/04/2023,,20h00,,15,B75,Bourg,La Bièvre,N3B,Ponsot,,,
-22/04/2023,,20h00,,15,B72,Valence,Rillieux (équipe 2),N3B,Mazurier,,,
-23/04/2023,y,13h30,y,17,A84,Lyon Rhone,Villefranche,N3A,Mazurier,Forjan,,
-23/04/2023,y,15h15,y,15,B73,Lyon Rhone (équipe 2),Villefranche (équipe 2),N3B,Forjan,Mazurier,,
+08/04/2023,,20h00,,16,A78,Villefranche,Moulins,N3A,Forfait 2,,8,0
+15/04/2023,y,20h00,,10,B48,Bourg,Seynod,N3B,Favry,,7,10
+22/04/2023,,20h00,,15,B75,Bourg,La Bièvre,N3B,Ponsot,,12,7
+22/04/2023,,20h00,,15,B72,Valence,Rillieux (équipe 2),N3B,Mazurier,,10,22
+23/04/2023,y,13h30,y,17,A84,Lyon Rhone,Villefranche,N3A,Mazurier,Forjan,10,23
+23/04/2023,y,15h15,y,15,B73,Lyon Rhone (équipe 2),Villefranche (équipe 2),N3B,Forjan,Mazurier,10,18
 27/04/2023,y,20h00,,16,A79,Villefontaine,Ondaine,N3A,Mazurier,,,
-29/04/2023,y,18h30,y,8,A40,Aix,Annonay,N3A,,,,
+29/04/2023,y,18h30,y,8,A40,Aix,Annonay,N3A,Forfait 1,,0,8
 29/04/2023,,20h00,,16,B77,Annemasse,Bourg,N3B,,,,
 29/04/2023,y,20h00,,8,A36,Chenove,Pont de Claix,N3A,,,,
 29/04/2023,,20h00,,17,A83,Moulins,Villefontaine,N3A,,,,
 29/04/2023,,20h00,,17,A82,Ondaine,Rillieux,N3A,,,,
-29/04/2023,,20h00,,17,A81,Pont de Claix,Chenove,N3A,,,,
+30/04/2023,y,14h30,,17,A81,Pont de Claix,Chenove,N3A,,,,
 29/04/2023,,20h00,,16,B80,Seynod,Rillieux (équipe 2),N3B,,,,
 16/06/2023,,20h00,,16,B79,Valence,Lyon Rhone (équipe 2),N3B,,,,
 03/05/2023,Y,19H30,Y,8,B38,Valence,Echirolles,N3B,,,,
 06/05/2023,y,20h00,,13,A65,Moulins,Lyon Rhone,N3A,,,,
 11/05/2023,y,20h30,y,18,B89,Seynod,Echirolles,N3B,,,,
-13/05/2023,,18h30,,9,A41,Aix,Chenove,N3A,,,,
+13/05/2023,,18h30,,9,A41,Aix,Chenove,N3A,Forfait 1,,0,8
 13/05/2023,y,20h00,,9,A45,Ondaine,Pont de Claix,N3A,,,,
 13/05/2023,,20h00,,18,A89,Rillieux,Moulins,N3A,,,,
 13/05/2023,y,19h15,y,1,B02,Rillieux (équipe 2),Echirolles,N3B,,,,
