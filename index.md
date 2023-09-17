@@ -9,7 +9,7 @@ liste des [correspondants](wp/correspondants), des [arbitres](wp/arbitres), des 
 
 [Calendrier 2023/2024](pdfs/listingAetB_2023_2024.pdf)
 
-[Réglement N3 2023](pdfs/Réglement N3 2023.pdf)
+[Réglement N3 2023](pdfs/Reglement_N3_2023.pdf)
 
 Catégories | Calendrier / Résultats | Classements
 --- | --- | --- | ---
