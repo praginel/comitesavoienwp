@@ -1,7 +1,7 @@
 ---
 title: U15
 poule: U15
-category: waterpolo
+category: waterpoloH
 datatable: true
 ---
 

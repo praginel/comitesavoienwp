@@ -1,7 +1,7 @@
 ---
 title: U13
 poule: U13
-category: waterpolo
+category: waterpoloH
 datatable: true
 ---
 

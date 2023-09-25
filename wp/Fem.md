@@ -1,7 +1,7 @@
 ---
 title: Féminines
 poule: FEM
-category: waterpolo
+category: waterpoloH
 datatable: true
 ---
 
