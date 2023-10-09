@@ -1,7 +1,7 @@
 date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,arbitre1,arbitre2,score_locaux,score_visiteurs
-07/10/2023,,19h00,y,,A03,Pont de Claix,Annemasse,N3A,Favry,Bouchez,,
-07/10/2023,,20h00,,,A04,Rillieux,Aix les Bains,N3A,Jadeau,Mazurier,,
-07/10/2023,y,20h00,,,A30,Annonay,Ondaine,N3A,Forjan,Ponsot,,
+07/10/2023,,19h00,y,,A03,Pont de Claix,Annemasse,N3A,Favry,Bouchez,19,7
+07/10/2023,,20h00,,,A04,Rillieux,Aix les Bains,N3A,Jadeau,Mazurier,13,18
+07/10/2023,y,20h00,,,A30,Annonay,Ondaine,N3A,Forjan,Ponsot,10,6
 14/10/2023,,20h00,,,B02,Seynod,Echirolles,N3B,Daché,Jadeau,,
 15/10/2023,y,15h45,y,,A01,Lyon Rhone,Villefranche,N3A,Blanchard,Mazurier,,
 15/10/2023,y,14h00,y,,B01,Lyon Rhone (équipe 2),Villefranche (équipe 2),N3B,Mazurier,Blanchard,,
@@ -58,7 +58,7 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 3/2/2024,y,19h30,y,,A29,Villefranche,Lyon Rhone,N3A,,,,
 3/2/2024,,21h00,y,,B29,Villefranche (équipe 2),Lyon Rhone (équipe 2),N3B,,,,
 3/2/2024,,20h00,,,B30,Echirolles,Seynod,N3B,,,,
-3/2/2024,,20h00,,,B31,La Bièvre,Pont de Claix (équipe 2),N3B,,,,
+2/2/2024,y,20h00,,,B31,La Bièvre,Pont de Claix (équipe 2),N3B,,,,
 10/2/2024,,20h00,,,A37,Villefranche,Annonay,N3A,,,,
 10/2/2024,,20h00,,,A38,Annemasse,Lyon Rhone,N3A,,,,
 10/2/2024,,19h30,y,,A40,Rillieux,Pont de Claix,N3A,,,,
