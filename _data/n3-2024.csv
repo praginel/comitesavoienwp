@@ -2,7 +2,6 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 07/10/2023,,19h00,y,,A03,Pont de Claix,Annemasse,N3A,Favry,Bouchez,19,7
 07/10/2023,,20h00,,,A04,Rillieux,Aix les Bains,N3A,Jadeau,Mazurier,13,18
 07/10/2023,y,20h00,,,A30,Annonay,Ondaine,N3A,Forjan,Ponsot,10,6
-14/10/2023,,20h00,,,B02,Seynod,Echirolles,N3B,Daché,Jadeau,,
 15/10/2023,y,15h45,y,,A01,Lyon Rhone,Villefranche,N3A,Bouchez,Mazurier,,
 15/10/2023,y,14h00,y,,B01,Lyon Rhone (équipe 2),Villefranche (équipe 2),N3B,Mazurier,Bouchez,,
 21/10/2023,y,18h45,y,,B03,Pont de Claix (équipe 2),La Bièvre,N3B,Forjan,,,
@@ -15,7 +14,7 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 4/11/2023,,20h00,,,A09,Annonay,Villefranche,N3A,,,,
 4/11/2023,,20h00,,,A12,Pont de Claix,Rillieux,N3A,,,,
 5/11/2023,y,14h30,y,,A11,Ondaine,Aix les Bains,N3A,,,,
-07/11/2023,y,21h00,y,,B12,Pont de Claix (équipe 2),Rillieux (équipe 2),N3B,,,,
+7/11/2023,y,21h00,y,,B12,Pont de Claix (équipe 2),Rillieux (équipe 2),N3B,,,,
 11/11/2023,y,16h00,,,A41,Pont de Claix,Villefranche,N3A,,,,
 18/11/2023,,20h00,,,A14,Rillieux,Ondaine,N3A,,,,
 18/11/2023,,20h00,,,A16,Annemasse,Annonay,N3A,,,,
@@ -32,14 +31,15 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 02/12/2023,y,19h30,y,,B47,Rillieux (équipe 2),Lyon Rhone (équipe 2),N3B,,,,
 09/12/2023,y,20h00,,,A21,Villefranche,Ondaine,N3A,,,,
 09/12/2023,,20h00,,,B17,La Bièvre,Villefranche (équipe 2),N3B,,,,
-09/12/2023,,20h00,,,B20,Seynod,Pont de Claix (équipe 2),N3B,,,,
 10/12/2023,y,14h00,y,,A10,Lyon Rhone,Annemasse,N3A,,,,
+16/12/2023,y,20h30,y,,B20,Seynod,Pont de Claix (équipe 2),N3B,,,,
 16/12/2023,,20h00,,,A23,Rillieux,Annonay,N3A,,,,
 16/12/2023,y,19h30,y,,B09,Echirolles,Villefranche (équipe 2),N3B,,,,
 17/12/2023,y,14h00,y,,A24,Aix les Bains,Annemasse,N3A,,,,
 06/01/2024,y,20h15,y,,A22,Pont de Claix,Lyon Rhone,N3A,,,,
 06/01/2024,,18h45,y,,B22,Pont de Claix (équipe 2),Lyon Rhone (équipe 2),N3B,,,,
 06/01/2024,,20h00,,,B23,Rillieux (équipe 2),Echirolles,N3B,,,,
+13/01/2024,y,20h30,y,,B02,Seynod,Echirolles,N3B,,,,
 13/01/2024,,20h00,,,A26,Annemasse,Rillieux,N3A,,,,
 13/01/2024,y,18h45,y,,A55,Pont de Claix,Annonay,N3A,,,,
 14/01/2024,y,14h00,y,,B10,Lyon Rhone (équipe 2),La Bièvre,N3B,,,,
