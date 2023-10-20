@@ -2,16 +2,15 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 07/10/2023,,19h00,y,,A03,Pont de Claix,Annemasse,N3A,Favry,Bouchez,19,7
 07/10/2023,,20h00,,,A04,Rillieux,Aix les Bains,N3A,Jadeau,Mazurier,13,18
 07/10/2023,y,20h00,,,A30,Annonay,Ondaine,N3A,Forjan,Ponsot,10,6
-15/10/2023,y,15h45,y,,A01,Lyon Rhone,Villefranche,N3A,Bouchez,Mazurier,,
+15/10/2023,y,15h45,y,,A01,Lyon Rhone,Villefranche,N3A,Bouchez,Mazurier,10,12
 15/10/2023,y,14h00,y,,B01,Lyon Rhone (équipe 2),Villefranche (équipe 2),N3B,Mazurier,Bouchez,,
 21/10/2023,y,18h45,y,,B03,Pont de Claix (équipe 2),La Bièvre,N3B,Forjan,,,
 21/10/2023,,20h00,,,A05,Villefranche,Rillieux,N3A,,Favry,,
 21/10/2023,,20h00,,,A07,Annemasse,Ondaine,N3A,Mazurier,,,
 21/10/2023,,20h00,,,A08,Annonay,Lyon Rhone,N3A,Jadeau,,,
 21/10/2023,y,21h00,y,,B05,Villefranche (équipe 2),Rillieux (équipe 2),N3B,,Favry,,
-22/10/2023,y,14h00,y,,A06,Aix les Bains,Pont de Claix,N3A,reporté,,,
-28/10/2023,,20h00,,,B07,La Bièvre,Seynod,N3B,,,,
-4/11/2023,,20h00,,,A09,Annonay,Villefranche,N3A,,,,
+28/10/2023,,20h00,,,B07,La Bièvre,Seynod,N3B,Forjan,Daché,,
+04/11/2023,,20h00,,,A09,Annonay,Villefranche,N3A,,,,
 4/11/2023,,20h00,,,A12,Pont de Claix,Rillieux,N3A,,,,
 5/11/2023,y,14h30,y,,A11,Ondaine,Aix les Bains,N3A,,,,
 7/11/2023,y,21h00,y,,B12,Pont de Claix (équipe 2),Rillieux (équipe 2),N3B,,,,
@@ -21,6 +20,7 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 18/11/2023,y,19h30,y,,B08,Echirolles,Lyon Rhone (équipe 2),N3B,,,,
 18/11/2023,y,21h00,y,,B41,Pont de Claix (équipe 2),Villefranche (équipe 2),N3B,,,,
 19/11/2023,y,14h00,y,,A15,Aix les Bains,Lyon Rhone,N3A,,,,
+24/11/2023,y,14h00,y,,A06,Aix les Bains,Pont de Claix,N3A,,,,
 25/11/2023,,20h00,,,B14,Rillieux (équipe 2),Seynod,N3B,,,,
 25/11/2023,,20h00,,,B16,La Bièvre,Echirolles,N3B,,,,
 28/11/2023,y,15h45,y,,A36,Lyon Rhone,Annonay,N3A,,,,
