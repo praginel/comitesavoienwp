@@ -10,11 +10,11 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 21/10/2023,,20h00,,,A08,Annonay,Lyon Rhone,N3A,Jadeau,,14,10
 21/10/2023,y,21h00,y,,B05,Villefranche (équipe 2),Rillieux (équipe 2),N3B,,Favry,13,10
 28/10/2023,,19h00,y,,B07,La Bièvre,Seynod,N3B,Forjan,Daché,,
-04/11/2023,,20h00,,,A09,Annonay,Villefranche,N3A,,,,
-4/11/2023,,20h00,,,A12,Pont de Claix,Rillieux,N3A,,,,
-5/11/2023,y,14h30,y,,A11,Ondaine,Aix les Bains,N3A,,,,
-7/11/2023,y,21h00,y,,B12,Pont de Claix (équipe 2),Rillieux (équipe 2),N3B,,,,
-11/11/2023,y,16h00,,,A41,Pont de Claix,Villefranche,N3A,,,,
+04/11/2023,,20h00,,,A09,Annonay,Villefranche,N3A,Jadeau,Forjan,,
+4/11/2023,,20h00,,,A12,Pont de Claix,Rillieux,N3A,Mazurier,Ponsot,,
+5/11/2023,y,14h30,y,,A11,Ondaine,Aix les Bains,N3A,Mazurier,Jadeau,,
+7/11/2023,y,21h00,y,,B12,Pont de Claix (équipe 2),Rillieux (équipe 2),N3B,Jadeau,Forjan,,
+11/11/2023,y,16h00,,,A41,Pont de Claix,Villefranche,N3A,Forjan,Scotto,,
 18/11/2023,,20h00,,,A14,Rillieux,Ondaine,N3A,,,,
 18/11/2023,,20h00,,,A16,Annemasse,Annonay,N3A,,,,
 18/11/2023,y,19h30,y,,B08,Echirolles,Lyon Rhone (équipe 2),N3B,,,,
