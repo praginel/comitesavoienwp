@@ -25,11 +25,11 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 25/11/2023,,20h00,,4,B16,La Bièvre,Echirolles,N3B,Forjan,Scotto,8,9
 02/12/2023,,20h00,,5,A18,Annonay,Aix les Bains,N3A,Dache,Salle,13,24
 02/12/2023,y,20h00,,12,A45,Villefranche,Annemasse,N3A,Forjan,Favry,21,6
-02/12/2023,,20h45,y,12,A47,Rillieux,Lyon Rhone,N3A,Blanchard,Raymond,,
-02/12/2023,y,19h30,y,12,B47,Rillieux (équipe 2),Lyon Rhone (équipe 2),N3B,Blanchard,Raymond,,
+02/12/2023,,20h45,y,12,A47,Rillieux,Lyon Rhone,N3A,Blanchard,Raymond,21,13
+02/12/2023,y,19h30,y,12,B47,Rillieux (équipe 2),Lyon Rhone (équipe 2),N3B,Blanchard,Raymond,20,1
 09/12/2023,y,20h00,,6,A21,Villefranche,Ondaine,N3A,Ponsot,Jadeau,,
 09/12/2023,,20h00,,5,B17,La Bièvre,Villefranche (équipe 2),N3B,Blanchard,Scotto,,
-10/12/2023,y,14h00,y,3,A10,Lyon Rhone,Annemasse,N3A,Scotto,Ponsot,,
+10/12/2023,y,14h00,y,3,A10,Lyon Rhone,Annemasse,N3A,,Ponsot,,
 16/12/2023,,20h00,,6,A23,Rillieux,Annonay,N3A,Favry,Dache,,
 16/12/2023,y,19h30,y,3,B09,Echirolles,Villefranche (équipe 2),N3B,Blanchard,,,
 16/12/2023,y,20h30,y,5,B20,Seynod,Pont de Claix (équipe 2),N3B,Castrilli,,,
