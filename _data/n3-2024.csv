@@ -37,13 +37,13 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 06/01/2024,y,20h15,y,6,A22,Pont de Claix,Lyon Rhone,N3A,Bouchez,Blanchard,17,8
 06/01/2024,,18h45,y,6,B22,Pont de Claix (équipe 2),Lyon Rhone (équipe 2),N3B,Bouchez,,19,7
 06/01/2024,,20h00,,6,B23,Rillieux (équipe 2),Echirolles,N3B,Forjan,,10,13
-13/01/2024,,20h00,,7,A26,Annemasse,Rillieux,N3A,El Rhaffari,Jadeau,,
-13/01/2024,y,18h45,y,14,A55,Pont de Claix,Annonay,N3A,Blanchard,Forjan,,
-13/01/2024,y,20h30,y,1,B02,Seynod,Echirolles,N3B,Mazurier,,,
-13/01/2024,y,19h00,y,7,A25,Aix les Bains,Villefranche,N3A,Ponsot,,,
-14/01/2024,y,15h45,y,7,A28,Lyon Rhone,Ondaine,N3A,Berthiller,Bouchez,,
-14/01/2024,y,14h00,y,3,B10,Lyon Rhone (équipe 2),La Bièvre,N3B,Bouchez,Berthiller,,
-18/01/2024,y,20h00,,7,B27,Echirolles,Pont de Claix (équipe 2),N3B,Blanchard,,,
+13/01/2024,,20h00,,7,A26,Annemasse,Rillieux,N3A,El Rhaffari,Jadeau,6,22
+13/01/2024,y,18h45,y,14,A55,Pont de Claix,Annonay,N3A,Blanchard,Forjan,16,10
+13/01/2024,y,20h30,y,1,B02,Seynod,Echirolles,N3B,Mazurier,,10,7
+13/01/2024,y,19h00,y,7,A25,Aix les Bains,Villefranche,N3A,Ponsot,,23,15
+14/01/2024,y,15h45,y,7,A28,Lyon Rhone,Ondaine,N3A,Berthiller,Bouchez,7,11
+14/01/2024,y,14h00,y,3,B10,Lyon Rhone (équipe 2),La Bièvre,N3B,Bouchez,Berthiller,14,8
+18/01/2024,y,20h00,,7,B27,Echirolles,Pont de Claix (équipe 2),N3B,Blanchard,Bouchez,,
 20/01/2024,y,20h00,,1,A02,Ondaine,Annonay,N3A,Forjan,,,
 20/01/2024,,20h00,,8,A31,Annemasse,Pont de Claix,N3A,Mazurier,Jadeau,,
 20/01/2024,,20h00,,7,B26,La Bièvre,Rillieux (équipe 2),N3B,Favry,,,
