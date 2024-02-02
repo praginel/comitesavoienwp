@@ -53,7 +53,7 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 27/01/2024,y,21h00,y,9,B33,Rillieux (équipe 2),Villefranche (équipe 2),N3B,Forjan,,11,14
 28/01/2024,y,15h45,y,9,A36,Lyon Rhone,Annonay,N3A,Ponsot,Castrilli,6,15
 28/01/2024,y,14h00,y,7,B28,Lyon Rhone (équipe 2),Seynod,N3B,Ponsot,,7,11
-30/01/2024,y,20h00,,9,A34,Pont de Claix,Aix les Bains,N3A,Blanchard,Jadeau,,
+30/01/2024,y,20h00,,9,A34,Pont de Claix,Aix les Bains,N3A,Blanchard,Jadeau,5,22
 02/02/2024,y,20h00,,8,B31,La Bièvre,Pont de Claix (équipe 2),N3B,Berthiller,,,
 3/2/2024,y,19h30,y,8,A29,Villefranche,Lyon Rhone,N3A,Favry,Daché,,
 3/2/2024,,21h00,y,8,B29,Villefranche (équipe 2),Lyon Rhone (équipe 2),N3B,Favry,,,
@@ -63,7 +63,7 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 10/2/2024,,19h30,y,10,A40,Rillieux,Pont de Claix,N3A,Ponsot,Favry,,
 10/2/2024,y,21h00,,6,B21,Villefranche (équipe 2),Seynod,N3B,Jadeau,,,
 10/2/2024,y,20h00,,10,B40,Rillieux (équipe 2),Pont de Claix (équipe 2),N3B,Ponsot,,,
-10/2/2024,y,20h00,y,10,A39,Aix les Bains,Ondaine,N3A,,,,
+10/2/2024,y,20h00,y,10,A39,Aix les Bains,Ondaine,N3A,Castrilli,,,
 17/2/2024,y,19h30,y,4,A13,Villefranche,Pont de Claix,N3A,Bouchez,Blanchard,,
 17/2/2024,,20h00,,11,A44,Annonay,Annemasse,N3A,Jadeau,Forjan,,
 17/2/2024,y,21h00,y,4,B13,Villefranche (équipe 2),Pont de Claix (équipe 2),N3B,Bouchez,,,
