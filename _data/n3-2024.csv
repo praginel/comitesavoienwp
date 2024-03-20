@@ -66,17 +66,17 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 10/2/2024,y,20h00,y,10,A39,Aix les Bains,Ondaine,N3A,Castrilli,,25,7
 17/2/2024,y,19h30,y,4,A13,Villefranche,Pont de Claix,N3A,Bouchez,Blanchard,15,10
 17/2/2024,,20h00,,11,A44,Annonay,Annemasse,N3A,Jadeau,Forjan,18,15
-17/2/2024,y,21h00,y,4,B13,Villefranche (équipe 2),Pont de Claix (équipe 2),N3B,Bouchez,,20,18
+17/2/2024,y,21h00,y,4,B13,Villefranche (équipe 2),Pont de Claix (équipe 2),N3B,Bouchez,,21,18
 18/02/2024,y,15h45,y,11,A43,Lyon Rhone,Aix les Bains,N3A,Blanchard,Mazurier,0,8
 18/02/2024,y,14h00,y,9,B36,Lyon Rhone (équipe 2),Echirolles,N3B,Mazurier,,2,17
 24/02/2024,,20h00,,9,B35,Seynod,La Bièvre,N3B,Ponsot,,24,11
 02/03/2024,y,20h00,,13,A49,Ondaine,Villefranche,N3A,Mazurier,Scotto,8,13
 03/03/2024,y,14h30,y,11,A42,Ondaine,Rillieux,N3A,Mazurier,Jadeau,6,26
-16/03/2024,y,20h00,,5,A17,Annemasse,Villefranche,N3A,Forjan,Mazurier,,
+16/03/2024,y,20h00,,5,A17,Annemasse,Villefranche,N3A,Forjan,Mazurier,19,17
 16/03/2024,,20h00,,12,A48,Pont de Claix,Ondaine,N3A,,,8,0
-16/03/2024,y,19h00,y,12,A46,Aix les Bains,Annonay,N3A,Daché,Berthiller,,
-17/03/2024,y,15h45,y,5,A19,Lyon Rhone,Rillieux,N3A,Bouchez,Scotto,,
-17/03/2024,y,14h00,y,5,B19,Lyon Rhone (équipe 2),Rillieux (équipe 2),N3B,Scotto,Bouchez,,
+16/03/2024,y,17h00,y,12,A46,Aix les Bains,Annonay,N3A,Daché,Berthiller,26,9
+17/03/2024,y,15h45,y,5,A19,Lyon Rhone,Rillieux,N3A,Bouchez,Scotto,4,20
+17/03/2024,y,14h00,y,5,B19,Lyon Rhone (équipe 2),Rillieux (équipe 2),N3B,Scotto,Bouchez,3,11
 21/03/2024,,20h00,,14,A56,Ondaine,Lyon Rhone,N3A,Favry,Mazurier,,
 23/03/2024,,20h00,,13,A51,Annonay,Rillieux,N3A,Favry,Forjan,,
 23/03/2024,,20h00,,13,A52,Annemasse,Aix les Bains,N3A,Jadeau,Daché,,
