@@ -77,11 +77,11 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 16/03/2024,y,17h00,y,12,A46,Aix les Bains,Annonay,N3A,Daché,Berthiller,26,9
 17/03/2024,y,15h45,y,5,A19,Lyon Rhone,Rillieux,N3A,Bouchez,Scotto,4,20
 17/03/2024,y,14h00,y,5,B19,Lyon Rhone (équipe 2),Rillieux (équipe 2),N3B,Scotto,Bouchez,3,11
-21/03/2024,,20h00,,14,A56,Ondaine,Lyon Rhone,N3A,Favry,Mazurier,,
-23/03/2024,,20h00,,13,A51,Annonay,Rillieux,N3A,Favry,Forjan,,
-23/03/2024,,20h00,,13,A52,Annemasse,Aix les Bains,N3A,Jadeau,Daché,,
-24/03/2024,y,15h45,y,13,A50,Lyon Rhone,Pont de Claix,N3A,Forjan,Berthiller,,
-24/03/2024,y,14h00,y,13,B50,Lyon Rhone (équipe 2),Pont de Claix (équipe 2),N3B,Berthiller,Forjan,,
+21/03/2024,,20h00,,14,A56,Ondaine,Lyon Rhone,N3A,Favry,Mazurier,11,8
+23/03/2024,,20h00,,13,A51,Annonay,Rillieux,N3A,Favry,Forjan,7,19
+23/03/2024,,20h00,,13,A52,Annemasse,Aix les Bains,N3A,Jadeau,Daché,7,24
+24/03/2024,y,15h45,y,13,A50,Lyon Rhone,Pont de Claix,N3A,Forjan,Berthiller,14,11
+24/03/2024,y,14h00,y,13,B50,Lyon Rhone (équipe 2),Pont de Claix (équipe 2),N3B,Berthiller,Forjan,9,12
 30/03/2024,y,18h45,y,7,A27,Annonay,Pont de Claix,N3A,Jadeau,,,
 30/03/2024,,20h00,,14,A53,Villefranche,Aix les Bains,N3A,Mazurier,Ponsot,,
 30/03/2024,,20h00,,14,A54,Rillieux,Annemasse,N3A,Forjan,Berthiller,,
