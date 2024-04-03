@@ -85,10 +85,10 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 30/03/2024,y,18h45,y,7,A27,Annonay,Pont de Claix,N3A,Jadeau,,14,12
 30/03/2024,,20h00,,14,A53,Villefranche,Aix les Bains,N3A,Mazurier,Ponsot,11,36
 30/03/2024,,20h00,,14,A54,Rillieux,Annemasse,N3A,Forjan,,12,3
-30/03/2024,y,20h00,,10,B37,Villefranche (équipe 2),Echirolles,N3B,Ponsot,Mazurier,,
-06/04/2024,y,20h00,,5,A20,Ondaine,Pont de Claix,N3A,Forjan,Scotto,,
+30/03/2024,y,20h00,,10,B37,Villefranche (équipe 2),Echirolles,N3B,Ponsot,Mazurier,13,17
+06/04/2024,y,20h00,,5,A20,Ondaine,Pont de Claix,N3A,Jadeau,Scotto,,
 06/04/2024,,20h00,,11,B42,Seynod,Rillieux (équipe 2),N3B,Ponsot,,,
-06/04/2024,,20h00,,11,B44,Echirolles,La Bièvre,N3B,Jadeau,,,
+06/04/2024,,20h00,,11,B44,Echirolles,La Bièvre,N3B,Forjan,,,
 27/04/2024,,20h00,,12,B45,Villefranche (équipe 2),La Bièvre,N3B,Jadeau,,,
 27/04/2024,,20h00,,12,B48,Pont de Claix (équipe 2),Seynod,N3B,Mazurier,,,
 04/05/2024,y,20h00,,10,B38,La Bièvre,Lyon Rhone (équipe 2),N3B,,,,
