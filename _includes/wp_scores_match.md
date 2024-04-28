@@ -2,18 +2,18 @@
 {% assign contre = include.contre | plus: 0 -%}
 {% if pour > contre -%}
 {%   assign victories = victories | plus: 1 -%}
-{% if include.draw -%}
-{%   assign points = points | plus: 2 -%}
-{% else -%}
-{%   assign points = points | plus: 3 -%}
-{% endif -%}
+{%   if include.draw -%}
+{%     assign points = points | plus: 2 -%}
+{%   else -%}
+{%     assign points = points | plus: 3 -%}
+{%   endif -%}
 {% elsif pour < contre -%}
-{% if include.draw -%}
-{%   assign defeats = defeats | plus: 0 -%}
-{%   assign points = points | plus: 1 -%}
-{% else -%}
-{%   assign points = points | plus: 0 -%}
-{% endif -%}
+{%   assign defeats = defeats | plus: 1 -%}
+{%   if include.draw -%}
+{%     assign points = points | plus: 1 -%}
+{%   else -%}
+{%     assign points = points | plus: 0 -%}
+{%   endif -%}
 {% else -%}
 {%   assign draws = draws | plus: 1 -%}
 {%   assign points = points | plus: 1 -%}
