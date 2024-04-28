@@ -17,6 +17,9 @@
 {% else -%}
 {%   assign draws = draws | plus: 1 -%}
 {%   assign points = points | plus: 1 -%}
+{%   if include.draw -%}
+{%     assign draws = draws | plus: 1 -%}
+{%   endif -%}
 {% endif -%}
 {% assign played = played | plus: 1 -%}
 {% assign buts_pour = buts_pour | plus: pour -%}
