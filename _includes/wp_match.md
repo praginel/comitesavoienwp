@@ -23,5 +23,8 @@ Date | Heure | Journée | Match | Club Receveur | Score | Club Visiteur | Poule 
 {% else -%}
 {%   assign score = ' ' -%}
 {% endif -%}
+{% if match.nul -%}
+  {% assign score = score | append: ' <span style="color:red">[TAB]</span>' -%}
+{% endif -%}
 {{date}} | {{heure}} | {{match.journee}} | {{match.numero}} | {{match.locaux}} | {{score}} | {{match.visiteurs}} | {{match.poule}} | {{arbitre}}
 {% endfor -%}
