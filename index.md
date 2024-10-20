@@ -7,7 +7,7 @@ category: waterpolo
 Pour les clubs de water-polo de l'AuRA :
 liste des [correspondants](wp/correspondants), des [arbitres](wp/arbitres), des [entraineurs](wp/entraineurs), des [présidents](wp/presidents), ou [globale](wp/globale).
 
-[Réglement N3 2023](pdfs/Reglement_N3_2023.pdf)
+[Réglement N3 2024-2025](pdfs/Reglement_2025_AURA.pdf)
 
 Catégories | Calendrier / Résultats | Classements
 --- | --- | --- | ---
