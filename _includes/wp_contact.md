@@ -7,11 +7,11 @@
 
 <div class="datatable-begin"></div>
 
-Club | {% unless page contains "position" -%}Position |{% endunless -%} Nom | Portable | Email
----|{% unless page contains "position" -%}---|{% endunless -%}---|---|---
+Club | Position | Nom | Portable | Email
+---|---|---|---|---
 {% for membre in membres -%}
 {% capture email -%}<a href="mailto:{{membre.email}}">{{membre.email}}</a>{% endcapture -%}
-{{membre.club}} | {% unless page contains "position" -%}{{membre.position}} |{% endunless -%} {{membre.nom}} | {{membre.portable}} | {{email}}
+{{membre.club}} | {{membre.position}} | {{membre.nom}} | {{membre.portable}} | {{email}}
 {% endfor %}
 
 <div class="datatable-end"></div>
