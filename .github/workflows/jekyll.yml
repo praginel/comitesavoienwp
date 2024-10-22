@@ -42,7 +42,12 @@ jobs:
       - name: Update last modified
         id: maj
         continue-on-error: true
-        run: bash ./bin/pre-commit
+        run: |
+          sudo apt update
+          sudo apt install -y tzdata locales
+          sudo locale-gen fr_FR.UTF-8
+          sudo update-locale
+          bash ./bin/pre-commit
       - name: Build with Jekyll
         id: build
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
