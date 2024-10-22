@@ -3,6 +3,7 @@ title: U15
 poule: U15
 category: waterpoloH
 datatable: true
+layout: home
 ---
 
 # Calendrier des moins de 15 ans

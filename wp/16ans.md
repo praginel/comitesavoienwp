@@ -3,6 +3,7 @@ title: U16
 poule: U16
 category: waterpolo
 datatable: true
+layout: home
 ---
 
 # Calendrier des moins de 16 ans

@@ -3,6 +3,7 @@ title: U14
 poule: U14
 category: waterpolo
 datatable: true
+layout: home
 ---
 
 # Calendrier des moins de 14 ans

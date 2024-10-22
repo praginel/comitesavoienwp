@@ -11,9 +11,6 @@ theme: minima
 lang: fr
 plugins:
   - jekyll-feed
-  - jekyll-last-modified-at
-last-modified-at:
-    date-format: '%Y-%m-%d %H:%M'
 csv_reader:
   converters:
     - numeric

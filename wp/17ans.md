@@ -3,6 +3,7 @@ title: U17
 poule: U17
 category: waterpoloH
 datatable: true
+layout: home
 ---
 
 # Calendrier des moins de 17 ans

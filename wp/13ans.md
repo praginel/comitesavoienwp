@@ -3,6 +3,7 @@ title: U13
 poule: U13
 category: waterpoloH
 datatable: true
+layout: home
 ---
 
 # Calendrier des moins de 13 ans

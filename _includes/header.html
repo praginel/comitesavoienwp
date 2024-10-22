@@ -32,10 +32,5 @@
   </header>
 
   <div class="wrapper">
-    Derni&egrave;re mise &agrave; jour le
-  {% if page contains "last_modified_at" -%}
-      {{ page.last_modified_at | date: '%Y-%m-%d %H:%M' }}
-  {% else %}
-      {% include maj.html %}
-  {% endif %}
+    Derni&egrave;re mise &agrave; jour le {% include maj.html %}
   </div>

@@ -3,6 +3,7 @@ title: Féminines
 poule: FEM
 category: waterpoloH
 datatable: true
+layout: home
 ---
 
 # Calendrier des féminines

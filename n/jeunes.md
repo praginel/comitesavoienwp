@@ -2,6 +2,7 @@
 title: Jeunes
 categorie: Jeunes
 category: natation
+layout: home
 ---
 
 # Calendrier des avenirs

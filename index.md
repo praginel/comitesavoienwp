@@ -1,5 +1,6 @@
 ---
 category: waterpolo
+layout: home
 ---
 
 # Saison 2024/2025

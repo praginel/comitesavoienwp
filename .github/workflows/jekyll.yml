@@ -37,6 +37,8 @@ jobs:
         run: curl -sL 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQm4WIc6Iz3WNQcdAzNY5bSqJNxiQb8yuHk-1CQ_5dNuwy1vHOXLi54gXOt3-T42w/pub?gid=1408380169&single=true&output=csv' | tr -d \\r > _data/n3-2025.csv
       - name: Download members
         run: curl -sL 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQm4WIc6Iz3WNQcdAzNY5bSqJNxiQb8yuHk-1CQ_5dNuwy1vHOXLi54gXOt3-T42w/pub?gid=290668437&single=true&output=csv' | tr -d \\r > _data/membres.csv
+      - name: Update last modified
+        run: bash ./bin/pre-commit
       - name: Build with Jekyll
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
