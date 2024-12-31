@@ -1,4 +1,3 @@
-date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,arbitre1,arbitre2,score_locaux,score_visiteurs,nul
 06/10/2024,,13h30,,1,2,Ondaine,Pont de Claix,U14,Jadeau,Mazurier,0,13,
 06/10/2024,,13h30,,2,4,Aix,Chenove,U14,Bourges,,43,2,
 06/10/2024,,15h00,,1,1,Pont de Claix,Rillieux,U14,Jadeau,Mazurier,16,4,
@@ -109,6 +108,7 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 11/01/2025,,20h00,,,26,Annonay,RILLIEUX,N3A,,,,,
 11/01/2025,,20h00,,,27,Ondaine,Pont de Claix,N3A,,,,,
 11/01/2025,,20h00,,,26,Exempt,Seynod,N3B,,,,,
+11/01/2025,y,19h30,y,,5,Chenove,La Bièvre,N3B,,,,,
 18/01/2025,,20h00,,,27,Villefranche,Rillieux,N3B,,,,,
 18/01/2025,,20h00,,,28,Chenove,Pont de Claix,N3B,,,,,
 18/01/2025,,20h00,,,29,La Bièvre,Moulins,N3B,,,,,
@@ -139,7 +139,6 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 15/02/2025,y,19h00,y,,90,Rillieux,Pont de Claix,N3B,,,,,
 15/02/2025,y,20h30,y,,65,Moulins,Lyon,N3B,,,,,
 22/02/2025,y,19h00,y,,28,LYON,Villefranche,N3A,,,,,
-22/02/2025,y,20h00,y,,5,Chenove,La Bièvre,N3B,,,,,
 22/02/2025,,20h00,,,41,La Bièvre,Exempt,N3B,,,,,
 22/02/2025,,20h00,,,42,Echirolles,Chenove,N3B,,,,,
 22/02/2025,,20h00,,,43,Lyon,Villefranche,N3B,,,,,
@@ -210,6 +209,7 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 31/05/2025,,20h00,,,86,Exempt,La Bièvre,N3B,,,,,
 31/05/2025,,20h00,,,87,Chenove,Echirolles,N3B,,,,,
 31/05/2025,,20h00,,,89,Seynod,Moulins,N3B,,,,,
+date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,arbitre1,arbitre2,score_locaux,score_visiteurs,nul
 09/02/2025,,13h00,,,23,BFC,La Bièvre,FEM,,,,,
 09/02/2025,,14h00,,,24,Seynod,Lyon,FEM,,,,,
 09/02/2025,,15h00,,,30,Lyon,La Bièvre,FEM,,,,,
