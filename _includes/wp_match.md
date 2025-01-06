@@ -19,7 +19,7 @@ Date | Heure | Journée | Match | Club Receveur | Score | Club Visiteur | Poule 
 {%   assign arbitre = match.arbitre1 -%}
 {% endif -%}
 {% if match.score_locaux -%}
-{%   assign score = match.score_locaux | append: '&nbsp;-&nbsp;' | append: match.score_visiteurs -%}
+{%   assign score = '<span class="text-nowrap" style="white-space:nowrap">' | append: match.score_locaux | append: '&nbsp;-&nbsp;' | append: match.score_visiteurs | append: '</span>' -%}
 {% else -%}
 {%   assign score = ' ' -%}
 {% endif -%}
