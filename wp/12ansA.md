@@ -1,6 +1,6 @@
 ---
 title: U12 excellence
-poule: U12
+poule: U12A
 category: waterpolo
 datatable: true
 layout: home

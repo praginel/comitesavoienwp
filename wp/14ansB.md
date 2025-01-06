@@ -1,6 +1,6 @@
 ---
 title: U14 honneur
-poule: U14
+poule: U14B
 category: waterpolo
 datatable: true
 layout: home

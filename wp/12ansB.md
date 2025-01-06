@@ -1,6 +1,6 @@
 ---
 title: U12 honneur
-poule: U12
+poule: U12B
 category: waterpolo
 datatable: true
 layout: home

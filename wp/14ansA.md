@@ -1,6 +1,6 @@
 ---
 title: U14 excellence
-poule: U14
+poule: U14A
 category: waterpolo
 datatable: true
 layout: home
