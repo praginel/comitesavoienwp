@@ -1,5 +1,5 @@
 ---
-title: U14 poule honneur
+title: U14 honneur
 poule: U14
 category: waterpolo
 datatable: true

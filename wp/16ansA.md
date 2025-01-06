@@ -1,5 +1,5 @@
 ---
-title: U16 poule excellence
+title: U16 excellence
 poule: U16A
 category: waterpolo
 datatable: true

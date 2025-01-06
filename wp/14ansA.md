@@ -1,5 +1,5 @@
 ---
-title: U14 poule excellence
+title: U14 excellence
 poule: U14
 category: waterpolo
 datatable: true

@@ -1,5 +1,5 @@
 ---
-title: U16 poule honneur
+title: U16 honneur
 poule: U16B
 category: waterpolo
 datatable: true
