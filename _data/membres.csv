@@ -1,11 +1,11 @@
 club,nom,portable,email,position
-Aix,M. J. François Forjan,06.85.77.43.37,jeff733@orange.fr,arbitre
-Aix,M. Philippe Ponsot,07.66.71.77.86,gdspp@wanadoo.fr,arbitre
+Aix,M. J. François Forjan,06.85.77.43.37,jeff733@orange.fr,arbitre NA
+Aix,M. Philippe Ponsot,07.66.71.77.86,gdspp@wanadoo.fr,arbitre R
 Aix,M. Pascal Bouchez,06.64.47.10.70,bouchez.pascal@gmail.com,correspondant
 Aix,M. Clément Charotte,06.32.47.87.81,"clement,charotte@outlook.fr","entraineur N3, U17"
 Aix,M. Arthur Karas,06.48.14.29.26,arthurk20@hotmail.fr,"entraineur U11, U13, U15,"
 Aix,M. Pascal Bouchez,06.64.47.10.70,bouchez.pascal@gmail.com,"president,arbitre"
-Aix,M. Julien Bourgés,06.87.47.64.60,geshto@orange.fr,arbitre
+Aix,M. Julien Bourgés,06.87.47.64.60,geshto@orange.fr,arbitre IA
 Annemasse,M. John Tinker,04.50.80.10.61,tinker.j@pg.com,president
 Annemasse,M. ,,waterpolo@annemasse-natation.com,entraineur
 Annemasse,M. Quentin Leblanc,06.11.32..25.58,quentin.leblanc.pro@outlook.com,"correspondant, informatique"
@@ -24,7 +24,7 @@ Chenove,M. Tugdual Livenais,06.33.53.13.74,tuclivenais@yahoo.fr,entraineur
 Chenove,M. Alessandro Bortolozzi,06.51.04.62.79,sandro.borto@hotmail.fr,entraineur U15 U17
 Chenove,M. Aurélien Armand,06.62.06.90.13,harmand.aurelien@free.fr,president
 Chenove,M. Maxime Mansot,06.77.43.91.50,maximemansot@hotmail.fr,entraineur U11 U13
-Chenove,M. Tugdual Livenaisl,06.62.06.90.13,livenaistugdual@gmail.com,arbitre
+Chenove,M. Tugdual Livenaisl,06.62.06.90.13,livenaistugdual@gmail.com,arbitre HR
 Echirolles,M. Mario Zerbini,06.14.46.14.76,echirolleswaterpolo@gmail.com,correspondant
 Echirolles,M. Yves Zerbini,06.08.01.29.39,yves_zerbini@bbox.fr,president
 Givors,M. Paolo Venturelli,06.14.40.63.93,venturelli.paolo@gmail.com,entraineur U13 U15 U17
@@ -36,12 +36,12 @@ Lyon Rhône,Mme Liliana Carvalho,06.37.60.11.82,liliana_filipa15@hotmail.com,cor
 Lyon Rhône,M. Pierre-G Souche,07.87.76.78.80,pg.souche@free.fr,correspondant
 Lyon Rhône,M. Antoine Hely-Joly,06 70 62 80 92,ahelyjoly@gmail.com,informatique
 Lyon Rhône,M. Jean Marc Hesse,06.12.01.44.49,jeanmarc.hesse@lyonrhonewaterpolo.org,president
-Lyon Rhône,M. Florian Navarro,06.20.27.36.13,florianflo69510@gmail.com,arbitre
-Lyon Rhône,M. Matieu Levoir,06.51.11.15.12,Mathieu.levoir@lyonrhonewaterpolo.org,arbitre
-Lyon Rhône,M.Jean-Louis Scotto,07.86.73.40.48,jean-louis.scotto@wanadoo.fr,arbitre
-Lyon Rhône,Mme Marie-Laure Foréa,06.28.04.33.38,mlflorea@free.fr,arbitre
+Lyon Rhône,M. Florian Navarro,06.20.27.36.13,florianflo69510@gmail.com,arbitre RS
+Lyon Rhône,M. Matieu Levoir,06.51.11.15.12,Mathieu.levoir@lyonrhonewaterpolo.org,arbitre RS
+Lyon Rhône,M.Jean-Louis Scotto,07.86.73.40.48,jean-louis.scotto@wanadoo.fr,arbitre RS
+Lyon Rhône,Mme Marie-Laure Foréa,06.28.04.33.38,mlflorea@free.fr,arbitre RS
 Moirans,M. Christophe Favry,06.60.94.79.02,christophefavry@yahoo.fr,arbitre
-Moirans,Mme Aurély Blanchard,07.69.92.65.14,aurelybcd@gmail.com,arbitre
+Moirans,Mme Aurély Blanchard,07.69.92.65.14,aurelybcd@gmail.com,arbitre IA
 Moulins,M. Massimo Castrilli,,massimocastrilli@hotmaim.com,arbitre
 Moulins,M; Anthony Marceau,06.24.16.24.44,marceau.tony@gmail.com,president
 Moulins,M. Tanguy Fauconnier,07.63.21.25.78,tanguycoachncm03@gmail.com,correspondant
