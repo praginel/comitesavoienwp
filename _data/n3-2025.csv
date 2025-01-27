@@ -111,7 +111,7 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 25/01/2025,y,19h00,y,,3,Pont de Claix,Annonay,N3A,Jadeau,,22,12,
 25/01/2025,,20h00,,,30,Ondaine,Villefranche,N3A,Mazurier,,10,17,
 25/01/2025,,20h00,,,32,Lyon,La Bièvre,N3B,Ponsot,,6,9,
-25/01/2025,,20h45,y,,33,Moulins,Chenove,N3B,Bourges,Raymond,,,
+25/01/2025,,20h45,y,,33,Moulins,Chenove,N3B,Bourges,Raymond,20,10,
 26/01/2025,y,14h30,y,,18,Ondaine,Annemasse,N3A,Floréa,Jadeau,17,5,
 30/01/2025,y,19h45,,,19,Echirolles,Pont de Claix,N3B,,BOUCHEZ,,,
 01/02/2025,y,20h00,,,5,CAROUGE,RILLIEUX,N3A,,,,,
