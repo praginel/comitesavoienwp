@@ -124,7 +124,7 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 08/02/2025,,20h00,,,40,La Bièvre,Echirolles,N3B,Forjan,,10,19,
 08/02/2025,y,18h45,y,,82,Pont de Claix,Seynod,N3B,Salle,,5,15,
 15/02/2025,y,21h00,y,,8,Echirolles,Seynod,N3B,Bouchez,,7,3,
-15/02/2025,,18h30,y,,37,CAROUGE,Ondaine,N3A,Suisse,,,,
+15/02/2025,,18h30,y,,37,CAROUGE,Ondaine,N3A,Suisse,,12,15,
 15/02/2025,,20h00,,,38,Annonay,LYON,N3A,Jadeau,,8,9,
 15/02/2025,,16h15,y,,39,Annemasse,Villefranche,N3A,Rafie,Forjan,9,16,
 15/02/2025,,20h00,,,40,RILLIEUX,Pont de Claix,N3A,Ponsot,Scotto,16,7,
@@ -156,7 +156,7 @@ date,date_modifiee,heure,heure_modifiee,journee,numero,locaux,visiteurs,poule,ar
 29/03/2025,,20h00,,,52,Villefranche,La Bièvre,N3B,Florea,Orsi,33,12,
 29/03/2025,,20h00,,,53,Seynod,Echirolles,N3B,Ponsot,Forjan,12,4,
 29/03/2025,,20h15,,,55,Pont de Claix,Moulins,N3B,Bouchez,,21,20,y
-30/03/2025,y,16h45,y,,29,CAROUGE,LYON,N3A,Suisse,,,,
+30/03/2025,y,16h45,y,,29,CAROUGE,LYON,N3A,BIshofberger,,15,2,
 05/04/2025,,20h00,,,49,Villefranche,CAROUGE,N3A,Bouchez,,16,15,y
 05/04/2025,,20h00,,,51,Ondaine,RILLIEUX,N3A,Mazurier,,15,12,
 05/04/2025,,20h00,,,52,Annonay,Annemasse,N3A,Jadeau,,16,10,
