@@ -1,20 +1,30 @@
 ---
-category: waterpolo
-layout: home
+layout: default
 ---
 
-# Saison 2024/2025
+<style type="text/css" media="screen">
+  .container {
+    margin: 10px auto;
+    max-width: 600px;
+    text-align: center;
+  }
+  h1 {
+    margin: 30px 0;
+    font-size: 4em;
+    line-height: 1;
+    letter-spacing: -1px;
+  }
+</style>
 
-Pour les clubs de water-polo de l'AuRA :
-liste des [correspondants](wp/correspondants), des [arbitres](wp/arbitres), des [entraineurs](wp/entraineurs), des [présidents](wp/presidents), ou [globale](wp/globale).
+<div class="container">
+  <h1>404</h1>
 
-[Réglement N3 2024-2025](pdfs/Reglement_2025_AURA.pdf)
+  <p><strong>Page not found :(</strong></p>
+  <p>The requested page could not be found.</p>
+</div>
 
-Catégories | Calendrier / Résultats | Classements
---- | --- | --- | ---
-AURA 3A | [N3A](wp/N3A) ||
-AURA 3B | [N3B](wp/N3B) ||
-N3 | [calendrier](wp/N3) ||
-U12 | [calendrier](wp/12ans) ||
-U14 | [calendrier](wp/14ans) ||
-U16 | [calendrier](wp/16ans) ||
+<div class="container">
+  <h1>404</h1>
+
+  <p><strong>La page demandée page n'a pas été trouvée :(</strong></p>
+</div>

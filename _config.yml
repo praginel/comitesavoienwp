@@ -1,22 +1,12 @@
-title: Water-polo AURA
-email: praginel@free.fr
+title: Page blanche
+# email: praginel@free.fr
 description: >-
-  Site du water-polo de la région Auvergne-Rhône-Alpes
+  Site blanc
 baseurl: "/comitesavoienwp"
-url: "https://praginel.github.io/"
-github_username:  praginel
 
 # Build settings
 theme: minima
 lang: fr
-plugins:
-  - jekyll-feed
-csv_reader:
-  converters:
-    - numeric
-    - datetime
-  headers: true
-  encoding: utf-8
 exclude:
   # - VieuxSite/
   # - pdfs/
